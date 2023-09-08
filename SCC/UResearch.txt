@@ -1,0 +1,119 @@
+This  is a report on initial investigation into residents feelings, fears and hopes around the use of artificial intelligence in public sector services as well as their understanding of AI and key aspects of ABC County Council AI strategy.​
+
+As part of resident engagement that took place in July 2023 we conducted short-burst in person interviews with 21 residents. Outcomes of the engagement are presented in this document.​
+
+Following the engagement, we believe the below objectives and questions should be explored before taking further steps in implementation of AI tool across ABC services so that we ensure we take a human centric approach and no one is left behind. A research plan to support a future project has been drafted and should be reviewed and finalised once a future research project is formalised. ​
+
+Questions we asked
+1- What do you know about Artificial Intelligence? Where did you hear about it?​
+2- How does it make you feel when you’re hearing or thinking about it?​
+3- Do you think you already use AI in your day to day life?​
+4- How do you feel about AI being used in public sector?​
+5- What could it be used for? What services shouldn’t use AI?​
+6- Can you easily access and understand information about how AI is being used in products and services?​
+7- Do you think using AI could improve fairness or make outcomes less fair?​
+8- Who would you see as accountable for decisions and mistakes made if a service used AI tools?​
+
+
+Answers to the questions
+"What do you know about Artificial Intelligence? ​
+​Where did you hear about it?​
+​Do you think you already use AI in your day to day life?​" 
+​
+are summarized below 
+Despite frequently expressing lack confidence when it comes to discussing the subject of AI (especially if they are not confident with technology in general) residents we spoke to had a high level of awareness of artificial intelligence. ​
+
+What AI powered technology means is hard to envision and some residents had a clear scientific understanding of AI, some saw it as a separate device like laptop or something you can opt out of, others confused it with artificial general intelligence. ​
+
+Media outlets (TV, news, social media) and popular culture (films and tv shows) are the main sources of information about what artificial intelligence is, how it’s used and what it’s capacity is.​
+
+Media messaging often links to technology used for scams, failed experiments, issues that concern tech companies and dystopian futures where humans are oppressed,  where jobs are at risk and “the whole world is about to change”.  ​
+
+Residents recognise flaws in media coverage and believe that education and access to reliable information is the key.  Some have complained about inaccessibility of the language used in conversations about AI and lack of access to easy to understand information about it.​
+
+Some residents believe AI is “overinflated” and “still in it’s infancy” and are cautious about the idea of it being implemented when “we don’t know enough about it” and expressed concerns over "exposing our children to it"​
+
+Most participants thought AI is used in private sector products and services Amazon or online shopping frequently used as example, residents also mentioned self check out tills in supermarkets, ChatGPT, advertising, film production and emails (AI generated text content).​
+
+Older residents were more afraid of the new, unfamiliar technology and the impact it will have on the world around them.
+
+Question: How does it make you feel when you’re hearing or thinking about AI?​
+Answer: 
+​
+Residents fear and are concerned about:​
+
+new technology mixed with lack of access to easy to understand information and education​
+
+impact of using AI (especially younger generations and those who are digitally excluded)​
+
+lack of satisfaction while interacting with machines​
+
+being exposed to fraud and scams (impersonation), loss of privacy​
+
+Systems becoming dependent on AI (even if it doesn’t work well or is overinflated)​
+
+lack of flexibility of the system inability to interact with a person rather than an AI tool​
+
+increase of inequality​
+
+community impact, isolation ​
+
+loss of jobs​
+
+
+Adjectives used most often by residents to describe AI: scary, frightening, worrying
+
+Bias ​
+
+There were a mixed reactions around bias and AI. Some believed AI will be less biased than the employees making decisions, some believed it will exaggerate bias humans have.​
+
+Some believed AI to be vulnerable to people manipulating AI ("people can cheat AI") for selfish gains or bad actors using it for intentional harm to a person or groups of people.  ​
+
+​
+Some of the residents expressed neutral opinions focused on the themes of not knowing enough and a sense of mystery around AI. ​
+
+A few of the residents saw a balance between positive and negative outcomes of AI implementations. They also raised the following issues:​
+
+risk of unknown problems with AI (ie. new crimes)​
+
+consequences of using AI in services (bias, responsibility, visibility)​
+
+​
+Some of the residents had positive attitude towards AI because they believed it can reduce workload, give faster access to services(eg: parking, transport), has advances in medical research, can help with staffing problems in public sector​
+
+
+
+Residents have doubts about public organisations ability and competency to understand and implement solutions that rely on artificial intelligence. Aside from concerns about invasion of privacy, security, bias, decision accuracy some residents were also voicing concerns about ulterior motives behind implementation (selling data, pushing people away).​
+
+​
+
+Residents were also concerned about impact this would have on their relationship with the council. In post-covid world they already feel like services and officers are less resident friendly and that digital solutions are forced on them. 
+
+
+
+Users tried to distinguish between what AI should and should not be left to do. Things that can “cause harm”, "something that can cost someone's life", mental health, something that needs flexibility, persistence to fight till you get help, empathy are tasks they believed should not be left to AI. 
+
+Residents think using AI in these domains can raise concerns: 
+1- Decision making (without human input) that causes harm​
+2- Services that are nuanced and require flexibility or dealing with unusual circumstances/factors. "something that is not in the forms can help someone"​
+3- Policing​
+4- Criminal investigations​
+5- Sensitive services, services that require your private data​
+6- Mental health services​
+7- Phone lines​
+8- Hospitals​
+9- “Anything related to politics”​
+
+However they think these domains can benefit from AI
+1- Cancer detection​
+2- Medical research​
+3- Parking​
+4- Transport​
+5- Report and repairs
+
+
+Question: How our residents imagine humans and AI working together
+
+Most residents believe that AI tools can be used successfully if people supervise the process and have a final sign off on tasks, because humans have empathy, ability to understand complex situations and be flexible and show appropriate emotions.​
+
+Regulations are required but residents have no confidence in regulators being ahead of technology. Some people expressed their lack of confidence in regulations being ahead of technology. 1 user said Council using AI will increase her trust in AI. 
