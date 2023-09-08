@@ -1,0 +1,25 @@
+
+1- There is a risk that AI use by residents will overwhelm the existing customer relations infrastructure.
+Generative large language models now provide residents an unprescedented ability to quickly generate considerable amounts of detailed correspondence to be sent to the organisation on a variety of issues. 	
+Many public facing parts of the council likely manage their supply and demand on services based on historical data. The organisation  will likely not abe able to quickly match supply to a sudden increase in demand caused by increasing generative AI use by the public. How this new demand could be managed - increasing public facing AI use by ABC to respond, increase in workforce etc. is unclear.
+
+2- There is a risk that AI is embeded into public facing services, such as chatbots, without strict ethical parameters and comprehensive governance controls, resulting in a risk to the organisations reputation.
+Chatbots at ABC currently use a form of AI to source information from within the organisation. However, they run on rails and are not LLM (large language models). There is an opportunity for this in the future however.
+More advanced chatbots running on more advanced AI systems may represent a reputational risk to the organisation should they go rogue. There are examples of this happening elsewhere.
+
+
+3- There is a risk that 3rd party generative AI use by staff may result in significant data breaches.
+Without an in house, secure generative AI service accessible to staff, they may turn to 3rd party applications instead.Many of these 3rd party, commercial offerings, track and log all data entries. We have no control over any data being inputted. Are all staff aware that inputting information owned by ABC into something like ChatGPT represents a data risk? To what extent is this already occuing?
+
+4- There is a risk of corporate decisions unkowingly being based upon faulty or incomplete information provided by generative AI.
+If a member of staff is using an AI programme to supplement their work, there may be a temptation to use it to produce content without checking the content sufficiently	Without protocols in place to ensure that the due dilligence is carried out after to check the accuary of the AI's output, there is a risk that innacurate work is being produced, and decisions based upon it, by senior managers who are unaware that this work has been largely produced by an AI programme, not the staff member.
+
+4- With no national or international regulatory regime for AI use in place, and with no organisational guidance or policies in place, there is a risk of innapropriate and/or unethical AI use by staff.
+Without guidance, rules, protocols and policies in place, there is a risk that, even if wellmeaning, staff may use AI in an innapropriate way, resulting in reputational risk to the organisation. 	For example, an engingeer, analyst or developer using AI to write code that they do not fully understand, for a programme or function. This code could then backfire in any number of ways, all due to AI being used improperly by an individual.
+
+
+5- AI will likely play an increading role in the organisation over the coming years, due to the significant efficiencies it represents. There is a risk that staff may become hostile to greater rollout if they start to see it as a threat to their employment or working conditions.
+Many roles within the organisation will be supplemented by AI and, eventually, some *may* be replaced by AI programmes.	There is a risk of a bad actor, who feels threatened by AI taking their role, actively seeking to harm the organisation.  Risk is not unique to ABC, but worth bearing in mind as there is historical prescedent for unrest when large technological leaps in automation/mechanisation are made.
+
+6- Usage of AI, especially unapproved 3rd party applications, may represent a cyber risk to the organisation.
+A member of staff may access a programme that is malicious, or has been compromised	There is the potential of increased cyber risks as a result of certain 3rd party AI programmes being accessed by staff.
