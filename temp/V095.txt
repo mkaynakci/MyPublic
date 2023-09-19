@@ -6,7 +6,7 @@ Executive Summary: Briefly summarises the purpose and main points of the strateg
 
 Introduction: Provides the context for the strategy, including the importance of AI and the council's objectives and priorities. 
 
-Understanding AI: Provides a brief overview of AI and its potential benefits and challenges within SCC context. 
+Understanding AI: Provides a brief overview of AI and its potential benefits and challenges within ABC context. 
 
 Our Vision for AI: Outlines the council's vision for AI, including how it aligns with the UK National AI Strategy and the council's objectives and priorities. 
 
@@ -47,7 +47,7 @@ Executive Summary
 
  
 
-Surrey County Council (SCC) is committed to harnessing the power of Artificial Intelligence (AI) to improve our services, operations, and outcomes. Our AI strategy outlines a comprehensive and cohesive approach to achieving this goal, grounded in the council's objectives and priorities1. 
+Birmingham County Council (ABC) is committed to harnessing the power of Artificial Intelligence (AI) to improve our services, operations, and outcomes. Our AI strategy outlines a comprehensive and cohesive approach to achieving this goal, grounded in the council's objectives and priorities1. 
 
  
 
@@ -67,7 +67,7 @@ The AI Training and Skills Development program ensures that our staff have the s
 
  
 
-SCC’s AI initiatives in this strategy align with several existing strategies, including Organisation Strategy, Digital Strategy, Data Strategy, and Workforce Strategy. We also suggest a robust AI Monitoring and Evaluation process to ensure that our AI initiatives are delivering the expected benefits to services addressing the priorities of the council.  
+ABC’s AI initiatives in this strategy align with several existing strategies, including Organisation Strategy, Digital Strategy, Data Strategy, and Workforce Strategy. We also suggest a robust AI Monitoring and Evaluation process to ensure that our AI initiatives are delivering the expected benefits to services addressing the priorities of the council.  
 
  
 
@@ -83,15 +83,15 @@ Introduction
 
  
 
-Artificial Intelligence (AI) has become a transformative force in the global economy, offering unprecedented opportunities for innovation, efficiency, and economic growth. As SCC, we recognise the potential of AI to enhance our services, improve our operational efficiency, and deliver better outcomes for our residents. This AI strategy is our roadmap for harnessing the power of AI to achieve our objectives and priorities, and to address the unique challenges we face as a council. 
+Artificial Intelligence (AI) has become a transformative force in the global economy, offering unprecedented opportunities for innovation, efficiency, and economic growth. As ABC, we recognise the potential of AI to enhance our services, improve our operational efficiency, and deliver better outcomes for our residents. This AI strategy is our roadmap for harnessing the power of AI to achieve our objectives and priorities, and to address the unique challenges we face as a council. 
 
  
 
-The SCC serves a diverse population of 1.2 million residents, with a strong economy worth £43.5 billion. However, we face a range of challenges, from a growing and ageing population, health inequalities, and the impacts of climate change, to the need for sustainable economic growth, tackling cost of living issues, and ensuring the provision of high-quality and sustainable services for all. 
+The ABC serves a diverse population of 1.2 million residents, with a strong economy worth £43.5 billion. However, we face a range of challenges, from a growing and ageing population, health inequalities, and the impacts of climate change, to the need for sustainable economic growth, tackling cost of living issues, and ensuring the provision of high-quality and sustainable services for all. 
 
  
 
-Our council's objectives and priorities, as outlined in our Organisation Strategy and Surrey Way (2023 to 2028), are focused on addressing these challenges. We aim to grow a sustainable economy so everyone can benefit, tackle health inequality, enable a greener future, and empower thriving communities. We are committed to delivering excellence in our services and continually improving our organisational capability. 
+Our council's objectives and priorities, as outlined in our Organisation Strategy and Birmingham Way (2023 to 2028), are focused on addressing these challenges. We aim to grow a sustainable economy so everyone can benefit, tackle health inequality, enable a greener future, and empower thriving communities. We are committed to delivering excellence in our services and continually improving our organisational capability. 
 
 
 In this context, AI offers significant potential to help us achieve our objectives and priorities. For example, AI can help us improve service delivery by automating routine tasks, enhancing decision-making, and personalising services. It can also help us improve our operational efficiency by optimising resource allocation, streamlining processes, and enhancing performance monitoring. Furthermore, AI can help us address our challenges by providing insights into complex issues, predicting future trends, and enabling innovative solutions. 
@@ -102,11 +102,11 @@ However, harnessing the power of AI is not without its challenges. These include
 
 
 
-In developing this strategy, we have drawn on the UK National AI Strategy, which provides a national framework for the development and use of AI, and the SCC Organisation Strategy, which outlines our council's objectives and priorities. 
+In developing this strategy, we have drawn on the UK National AI Strategy, which provides a national framework for the development and use of AI, and the ABC Organisation Strategy, which outlines our council's objectives and priorities. 
 
  
 
-Surrey Way defines the key areas that we should be working towards. The AI strategy aligns with the priorities and objectives of the organisation as follows. 
+Birmingham Way defines the key areas that we should be working towards. The AI strategy aligns with the priorities and objectives of the organisation as follows. 
 
  
 
@@ -205,7 +205,7 @@ Prevention and Early Intervention: AI can help us provide support earlier and re
 
 Community Cohesion and Place Shaping: AI can help us make more residents feel connected to their local community and set and deliver local priorities. 
 
-Transforming How We Work: AI can help us work more effectively with communities and partners, providing our staff with the skills to work alongside communities as part of joined-up services across Surrey. 
+Transforming How We Work: AI can help us work more effectively with communities and partners, providing our staff with the skills to work alongside communities as part of joined-up services across Birmingham. 
 
  
 
@@ -227,11 +227,11 @@ AI technologies include machine learning, where computers learn from data withou
 
 
 
-At SCC we have already started using AI in several initiatives including developing chatbots’ intents and training them with conversational data, developing machine learning models in social care to analyse the trends and predict demand, prioritise urgent enquiries based on emergency. With the recent advancement in AI, particularly in Generative AI, the possibilities of what we can achieve has been greatly enhanced.  
+At ABC we have already started using AI in several initiatives including developing chatbots’ intents and training them with conversational data, developing machine learning models in social care to analyse the trends and predict demand, prioritise urgent enquiries based on emergency. With the recent advancement in AI, particularly in Generative AI, the possibilities of what we can achieve has been greatly enhanced.  
 
  
 
-AI has the potential to deliver significant benefits for the SCC and our residents. Some of these include: 
+AI has the potential to deliver significant benefits for the ABC and our residents. Some of these include: 
 
  
 
@@ -263,9 +263,9 @@ Speech and voice recognition technologies can greatly enhance accessibility serv
 
 Computer vision or image recognition can help in automated monitoring and maintenance of public spaces, quickly identifying potential safety hazards or instances of vandalism. The challenge is to ensure these systems respect privacy rights and are not used for unwarranted surveillance. They must also be able to operate effectively in different lighting and weather conditions, and accurately identify a wide range of objects and situations. 
 
-Predictive Analytics: Using AI to predict future trends and issues can help Surrey become a proactive county that anticipates and responds to the needs of its residents. This could be used in areas like healthcare, social services, and infrastructure planning. The challenge is to ensure predictions are accurate and based on comprehensive and up-to-date data. 
+Predictive Analytics: Using AI to predict future trends and issues can help Birmingham become a proactive county that anticipates and responds to the needs of its residents. This could be used in areas like healthcare, social services, and infrastructure planning. The challenge is to ensure predictions are accurate and based on comprehensive and up-to-date data. 
 
-AI in Education: AI could be used to personalise education and support lifelong learning, helping Surrey become a place where everyone has the opportunity to learn and grow. This could include AI tutors, adaptive learning platforms, and AI tools to support teachers. The challenge is to ensure these technologies are accessible to all and do not replace the human touch in education. 
+AI in Education: AI could be used to personalise education and support lifelong learning, helping Birmingham become a place where everyone has the opportunity to learn and grow. This could include AI tutors, adaptive learning platforms, and AI tools to support teachers. The challenge is to ensure these technologies are accessible to all and do not replace the human touch in education. 
 
  
 
@@ -295,7 +295,7 @@ Regulation and Governance: Using AI requires us to comply with regulations and g
 
  
 
-This AI strategy aims to harness the benefits of AI while addressing the SCC’ challenges, guided by our principles of fairness, transparency, and accountability. We are committed to using AI to improve our services, our operations, and our outcomes, while ensuring the ethical and responsible use of AI, the wellbeing of our workforce, and the trust and confidence of our residents. 
+This AI strategy aims to harness the benefits of AI while addressing the ABC’ challenges, guided by our principles of fairness, transparency, and accountability. We are committed to using AI to improve our services, our operations, and our outcomes, while ensuring the ethical and responsible use of AI, the wellbeing of our workforce, and the trust and confidence of our residents. 
 
  
 
@@ -305,7 +305,7 @@ Our Vision for AI
 
  
 
-We have conducted several workshops with stakeholders from representatives from different directorates in the organisation, our councillors, to understand the needs to help us to set our vision for AI. Our vision for AI in the SCC is to harness the power of AI to improve our services, our operations, and our outcomes, in line with our council's objectives and priorities, and in alignment with the UK National AI Strategy. 
+We have conducted several workshops with stakeholders from representatives from different directorates in the organisation, our councillors, to understand the needs to help us to set our vision for AI. Our vision for AI in the ABC is to harness the power of AI to improve our services, our operations, and our outcomes, in line with our council's objectives and priorities, and in alignment with the UK National AI Strategy. 
 
  
 
@@ -355,7 +355,7 @@ Guiding Principles
 
  
 
-Our AI principles are the guiding values that will inform all AI activities within the SCC. These principles are designed to ensure that our use of AI aligns with our organisational values, strategic goals, and legal requirements, and that it respects the rights and interests of our residents, our staff, and other stakeholders. 
+Our AI principles are the guiding values that will inform all AI activities within the ABC. These principles are designed to ensure that our use of AI aligns with our organisational values, strategic goals, and legal requirements, and that it respects the rights and interests of our residents, our staff, and other stakeholders. 
 
  
 
@@ -391,7 +391,7 @@ Education and Awareness: We will foster a culture of continuous learning around 
 
  
 
-In implementing these principles, we will establish an AI working group responsible for overseeing AI governance within the SCC. The group will ensure that our AI activities align with our principles, comply with all relevant laws and regulations, and promote best practices. The group will also monitor AI-related risks and incidents, and foster an environment of collaboration, inclusivity, and continuous learning around AI. 
+In implementing these principles, we will establish an AI working group responsible for overseeing AI governance within the ABC. The group will ensure that our AI activities align with our principles, comply with all relevant laws and regulations, and promote best practices. The group will also monitor AI-related risks and incidents, and foster an environment of collaboration, inclusivity, and continuous learning around AI. 
 
  
 
@@ -401,7 +401,7 @@ AI Maturity and Investment Roadmap
 
  
 
-Our AI Maturity and Investment Roadmap outlines the phased approach we will take to develop and implement AI in the SCC. This roadmap is designed to ensure that our AI initiatives are well-planned, well-managed, and well-governed, and that they deliver tangible benefits in terms of improved service delivery, cost savings, and innovation. 
+Our AI Maturity and Investment Roadmap outlines the phased approach we will take to develop and implement AI in the ABC. This roadmap is designed to ensure that our AI initiatives are well-planned, well-managed, and well-governed, and that they deliver tangible benefits in terms of improved service delivery, cost savings, and innovation. 
 
  
 
@@ -413,7 +413,7 @@ Phase 1 - Year 1 (0-12 months): Planning and Building Trust Phase.
 
  
 
-This phase will lay the foundation for future AI initiatives and building the trust with refinement of some internal use cases delivered. This will be achieved via emerging AI  governance working group and community of innovation (CoP), conduct AI awareness workshops, identify sample use cases with AI CoP, develop the AI governance framework with the data team, prototype some use cases in registration, highways and land & property services, and collaborate with the University of Surrey in prototype projects. We will also begin to foster a culture of change within the organisation, preparing our staff for the integration of AI into our operations. The investment required in this phase includes AI training for the squad, AI awareness hackathons, building or purchasing a safe platform for prototyping use cases, and resources for implementing the AI governance framework. 
+This phase will lay the foundation for future AI initiatives and building the trust with refinement of some internal use cases delivered. This will be achieved via emerging AI  governance working group and community of innovation (CoP), conduct AI awareness workshops, identify sample use cases with AI CoP, develop the AI governance framework with the data team, prototype some use cases in registration, highways and land & property services, and collaborate with the University of Birmingham in prototype projects. We will also begin to foster a culture of change within the organisation, preparing our staff for the integration of AI into our operations. The investment required in this phase includes AI training for the squad, AI awareness hackathons, building or purchasing a safe platform for prototyping use cases, and resources for implementing the AI governance framework. 
 
  
 
@@ -437,7 +437,7 @@ Phase 4 - Year 4+ (36+ months): Advanced Phase.
 
  
 
-This phase will deliver significant long-term benefits in terms of improved service delivery, cost savings, and innovation for the council. We will fully integrate AI into the council's operations and decision-making processes, continuously innovate and adopt cutting-edge AI technologies, and establish the SCC as a leading example of AI-driven local government. We will also focus on managing the cultural and organisational changes associated with advanced AI use, and ensure ongoing regulatory compliance. The investment required in this phase includes continued investment in AI tools and infrastructure, hiring additional data engineers, data scientists, and ML engineers, and setting aside a budget for the purchase of new tech. 
+This phase will deliver significant long-term benefits in terms of improved service delivery, cost savings, and innovation for the council. We will fully integrate AI into the council's operations and decision-making processes, continuously innovate and adopt cutting-edge AI technologies, and establish the ABC as a leading example of AI-driven local government. We will also focus on managing the cultural and organisational changes associated with advanced AI use, and ensure ongoing regulatory compliance. The investment required in this phase includes continued investment in AI tools and infrastructure, hiring additional data engineers, data scientists, and ML engineers, and setting aside a budget for the purchase of new tech. 
 
  
 
@@ -462,7 +462,7 @@ Our AI use cases are practical applications of AI that we have identified to imp
 
  
 
-SCC Resources: Automating routine tasks such as data entry, email generation, and appointment management. This can free up staff time for more complex tasks. As a next phase, AI can be used to generate documents, such as reports, slide decks, emails based on data. AI can also be used to manage casework, helping to prioritise tasks, follow up and track progress. 
+ABC Resources: Automating routine tasks such as data entry, email generation, and appointment management. This can free up staff time for more complex tasks. As a next phase, AI can be used to generate documents, such as reports, slide decks, emails based on data. AI can also be used to manage casework, helping to prioritise tasks, follow up and track progress. 
 
  
 
@@ -494,11 +494,11 @@ AI Governance Framework
 
  
 
-While control and risk management are undeniably important with a governance, especially in the rapidly changing context of AI, we aim a better governance that doesn’t hinder SCC's potential. A balanced approach that prioritizes innovation and growth, while also considering risks, is essential for organizations to fully harness the transformative power of AI for the serve our residents better and build a better future workforce. 
+While control and risk management are undeniably important with a governance, especially in the rapidly changing context of AI, we aim a better governance that doesn’t hinder ABC's potential. A balanced approach that prioritizes innovation and growth, while also considering risks, is essential for organizations to fully harness the transformative power of AI for the serve our residents better and build a better future workforce. 
 
  
 
-SCC operates under tight budgetary constraints and budget gap requires a critical attention. By focusing on growth and innovation, SCC can identify cost-saving opportunities faster and allocate resources more efficiently, ensuring maximum value for residents. Additionally, an innovation-focused governance will allow SCC to leverage AI to improve our services and customer experience, making them more efficient and user-friendly. 
+ABC operates under tight budgetary constraints and budget gap requires a critical attention. By focusing on growth and innovation, ABC can identify cost-saving opportunities faster and allocate resources more efficiently, ensuring maximum value for residents. Additionally, an innovation-focused governance will allow ABC to leverage AI to improve our services and customer experience, making them more efficient and user-friendly. 
 
  
 
@@ -506,7 +506,7 @@ AI Governance Framework outlines the structures, processes, and principles we wi
 
  
 
-What Innovation & Growth Focus means for SCC: 
+What Innovation & Growth Focus means for ABC: 
 
   
 
@@ -520,7 +520,7 @@ AI Governance Working Group (WG):
 
  
 
-We have started to establish a working group responsible for overseeing AI governance within the SCC. This group is responsible for overseeing AI governance. They ensure that AI activities align with guiding principles, comply with relevant laws and regulations, and promote best practices. They also monitor AI-related risks and incidents and foster an environment of collaboration, inclusivity, and continuous learning. 
+We have started to establish a working group responsible for overseeing AI governance within the ABC. This group is responsible for overseeing AI governance. They ensure that AI activities align with guiding principles, comply with relevant laws and regulations, and promote best practices. They also monitor AI-related risks and incidents and foster an environment of collaboration, inclusivity, and continuous learning. 
 
   
 
@@ -530,9 +530,9 @@ Third-party AI Tool Usage Guidelines: Define clear guidelines on how to use thir
 
 Safe Use of AI: Establish policies and best practices for the safe and ethical use of AI technologies. 
 
-Data Privacy & Security: Ensure AI initiatives prioritize data privacy and adhere to SCC security standards. 
+Data Privacy & Security: Ensure AI initiatives prioritize data privacy and adhere to ABC security standards. 
 
-Compliance & Regulatory Adherence: Ensure AI initiatives adhere to relevant regulations and compliance standards within SCC and national level. 
+Compliance & Regulatory Adherence: Ensure AI initiatives adhere to relevant regulations and compliance standards within ABC and national level. 
 
 Risk Management: Identify, assess, and mitigate potential risks associated with AI projects. 
 
@@ -564,9 +564,9 @@ IT&D Team: Responsible for establishing the strategy with key stakeholders, alon
 
 Data / Data Strategy Team: Provides guidance and ensures that the AI governance work is aligned with the data strategy and ethics framework  
 
-Information Governance (IG) Team: Provides guidance on SCC and national level IG standards and processes  
+Information Governance (IG) Team: Provides guidance on ABC and national level IG standards and processes  
 
-Security Team: Ensures that AI solutions are secure and adhere to SCC security standards. 
+Security Team: Ensures that AI solutions are secure and adhere to ABC security standards. 
 
 Infrastructure Team: Provides the necessary hardware and software support for AI projects. 
 
@@ -590,7 +590,7 @@ Hub and Spoke Model: A central team (hub) provides guidelines, and individual te
 
  
 
-It is proposed in this strategy that The Hub and Spoke model will be more suitable for SCC that combines the benefits of both centralised and decentralised model and to use our resources (human and technology) efficiently. The WG group (hub) with can ensure that best practices are followed, and resources are allocated efficiently. The individual teams (spokes) can then focus on their projects, ensuring agility and innovation. With the Hub and Spoke model, the central team can develop specialized AI models that can be used by multiple teams. This ensures that resources are used efficiently and that there's consistency in the AI solutions developed. 
+It is proposed in this strategy that The Hub and Spoke model will be more suitable for ABC that combines the benefits of both centralised and decentralised model and to use our resources (human and technology) efficiently. The WG group (hub) with can ensure that best practices are followed, and resources are allocated efficiently. The individual teams (spokes) can then focus on their projects, ensuring agility and innovation. With the Hub and Spoke model, the central team can develop specialized AI models that can be used by multiple teams. This ensures that resources are used efficiently and that there's consistency in the AI solutions developed. 
 
  
 
@@ -617,7 +617,7 @@ Our AI partnerships include:
 
  
 
-Universities: We have established partnerships with local academic institutions, including the University of Surrey, to collaborate on AI projects. These partnerships provide us with access to cutting-edge AI research and technologies, and they enable us to work with leading AI experts to develop and implement our AI initiatives. We have delivered an AI based enhanced knowledge management project in collaboration with University of Surrey (UoS)   
+Universities: We have established partnerships with local academic institutions, including the University of Birmingham, to collaborate on AI projects. These partnerships provide us with access to cutting-edge AI research and technologies, and they enable us to work with leading AI experts to develop and implement our AI initiatives. We have delivered an AI based enhanced knowledge management project in collaboration with University of Birmingham (UoS)   
 
  
 
@@ -647,7 +647,7 @@ Training and Skills Development
 
  
 
-Our AI Training and Skills Development program will be a key component of our AI strategy. This program is designed to ensure that our staff have the skills and knowledge they need to effectively use AI in their roles, and to foster a culture of continuous learning and innovation within the SCC. 
+Our AI Training and Skills Development program will be a key component of our AI strategy. This program is designed to ensure that our staff have the skills and knowledge they need to effectively use AI in their roles, and to foster a culture of continuous learning and innovation within the ABC. 
 
  
 
@@ -667,7 +667,7 @@ Upskilling the Data Analytics and Automation Teams: We will upskill our data ana
 
  
 
-Collaboration with Universities: We will collaborate with local academic institutions, including the University of Surrey, to provide our staff with access to cutting-edge AI research and training opportunities. 
+Collaboration with Universities: We will collaborate with local academic institutions, including the University of Birmingham, to provide our staff with access to cutting-edge AI research and training opportunities. 
 
  
 
@@ -809,7 +809,7 @@ Data Strategy: This strategy defines the effective use of data. Our AI initiativ
 
  
 
-Surrey Way: Surrey Way defines the key areas that we should be working towards. The AI strategy aligns with the priorities and objectives of the organisation as explained in introduction section in detail  
+Birmingham Way: Birmingham Way defines the key areas that we should be working towards. The AI strategy aligns with the priorities and objectives of the organisation as explained in introduction section in detail  
 
  
 
@@ -854,7 +854,7 @@ We believe that AI has the potential to transform our services and operations, a
 
  
 
-As outlined in our AI strategy, we believe that AI can play a significant role in achieving the council’s key priorities of growing a sustainable economy, tackling health inequality, enabling a greener future, and empowering communities aligned with our organisational strategy and Surrey Way initiative. It is also designed to use the potential of AI to improve services and outcomes for our residents, and to address workforce challenges while also addressing the challenges and risks associated with AI, referring to Jo Killian’s comments.  
+As outlined in our AI strategy, we believe that AI can play a significant role in achieving the council’s key priorities of growing a sustainable economy, tackling health inequality, enabling a greener future, and empowering communities aligned with our organisational strategy and Birmingham Way initiative. It is also designed to use the potential of AI to improve services and outcomes for our residents, and to address workforce challenges while also addressing the challenges and risks associated with AI, referring to Jo Killian’s comments.  
 
  
 
