@@ -1,0 +1,1536 @@
+This AI strategy document consists of these sections: 
+
+
+Executive Summary: Briefly summarises the purpose and main points of the strategy. 
+
+Introduction: Provides the context for the strategy, including the importance of AI and the council's objectives and priorities. 
+
+Understanding AI: Provides a brief overview of AI and its potential benefits and challenges within ABC context. 
+
+Our Vision for AI: Outlines the council's vision for AI, including how it aligns with the UK National AI Strategy and the council's objectives and priorities. 
+
+Objectives: Details the council's specific objectives for AI, such as improving service delivery, reducing costs, and promoting innovation. 
+
+Guiding Principles: Sets out the principles that will guide the council's use of AI, such as ethical use, fairness, accountability, and transparency. 
+
+AI Maturity and Investment Roadmap: Present the four-phase roadmap from the Maturity and Use Cases document, explaining each phase and the required investment. 
+
+Use Cases: Discusses the potential use cases for AI in the council, as collected from workshops with variety of stakeholders. 
+
+AI Governance Framework: Explains how the council will govern its use of AI, including the AI working group and community of innovation, the AI governance framework, and the AI ethics and safety guidance aligned with data ethics. 
+
+Policy and Guidance on using 3rd party AI tools including ChatGPT and Generative AI 
+
+Partnerships: Discusses the council's plans for partnerships, such as collaborations with universities, businesses, and other councils. 
+
+Training and Skills Development: Outlines the council's plans for training and skills development, including AI training for staff and collaborations with universities for AI research and development. 
+
+Infrastructure and Security:  Details the council's plans for AI infrastructure, including the AI tools and security resources that will be used. 
+
+Using our Resources and Aligning with Existing Strategies: Discusses how the council's AI initiatives align with existing resources and strategies, including the Data Analytics Strategy, Digital Strategy, Data Strategy, Corporate Strategy, and Workforce Strategy. 
+
+AI Monitoring and Evaluation: Explains how the council will monitor and evaluate its use of AI, including key performance indicators and regular reviews. 
+
+Conclusion: Summarises the main points of the strategy and reiterate the council's commitment to using AI to improve services and outcomes for residents. 
+
+Appendices: Include any additional information, such as detailed descriptions of the use cases, and a glossary of AI terms. 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Executive Summary 
+
+ 
+
+Birmingham County Council (ABC) is committed to harnessing the power of Artificial Intelligence (AI) to improve our services, operations, and outcomes. Our AI strategy outlines a comprehensive and cohesive approach to achieving this goal, grounded in the council's objectives and priorities1. 
+
+ 
+
+Our vision for AI is to use it as a tool to improve outcomes both for staff and residents, enhance our service delivery, drive innovation, and achieve cost savings. We aim to use AI in a way that is ethical, responsible, and focused on delivering value and benefits for our stakeholders including residents, staff and partners. This means balancing the benefits and risks with a good governance. Our AI principles, based on the Data Ethics Framework and our AI Policy that we are working on, guide us in this initiative. 
+
+ 
+
+The AI Maturity and Investment Roadmap outlines our plan to develop our AI capabilities over time, starting with automating routine tasks with RPA automations and progressing to more complex AI applications that use intelligence. Our AI use cases span across various directorates, including social care, road and transport maintenance, and community safety, among others. 
+
+ 
+
+The AI Governance Framework ensures that our AI initiatives are ethical, responsible, and compliant with all relevant laws and regulations. The governance proposed in the document encompasses some specific aspects of AI initiatives deployment and management, including its ethical, societal, and technical implications, whilst emphasizing leveraging existing governance processes including Data Ethics Framework, DPIA and SRA.  
+
+ 
+
+We have also started to establish AI partnerships with universities, this will be accelerated and more will follow with external partners, and technology providers to access expertise, resources, and technologies that we may not have in-house. 
+
+ 
+
+A suggested AI Training and Skills Development program will help our staff have the skills and knowledge they need to effectively use AI in their roles.  
+
+ 
+
+AI infrastructure that is proposed in this strategy aligns with our Corporate Infrastructure Strategy (CIA) , leveraging Microsoft technologies and Azure resources. 
+
+ 
+
+ABC’s AI initiatives in this strategy align with several existing strategies, including Organisation Strategy, Digital Strategy, Data Strategy, and Workforce Strategy. We also suggest a robust AI Monitoring and Evaluation process to ensure that our AI initiatives are delivering the expected benefits to services addressing the priorities of the council  
+
+ 
+
+In conclusion, we are excited about the opportunities that AI presents and are committed to exploring these opportunities in a way that is ethical, responsible, and focused on delivering value and benefits for our residents. 
+
+ 
+
+ 
+
+ 
+
+Introduction 
+
+ 
+
+Artificial Intelligence (AI) has become a transformative force in the global economy, offering unprecedented opportunities for innovation, efficiency, and economic growth. As ABC, we recognise the potential of AI to enhance our services, improve our operational efficiency, and deliver better outcomes for our residents. This AI strategy is our roadmap for harnessing the power of AI to achieve our objectives and priorities, and to address the unique challenges we face as a council. 
+
+ 
+
+The ABC serves a diverse population of 1.2 million residents, with a strong economy worth £43.5 billion. However, we face a range of challenges, from a growing and ageing population, health inequalities, and the impacts of climate change, to the need for sustainable economic growth, tackling cost of living issues, and ensuring the provision of high-quality and sustainable services for all. 
+
+ 
+
+Our council's objectives and priorities, as outlined in our Organisation Strategy and Birmingham Way (2023 to 2028), are focused on addressing these challenges. We aim to grow a sustainable economy so everyone can benefit, tackle health inequality, enable a greener future, and empower thriving communities. We are committed to delivering excellence in our services and continually improving our organisational capability. 
+
+
+ 
+
+In this context, AI offers significant potential to help us achieve our objectives and priorities. For example, AI can help us improve service delivery by automating routine tasks, enhancing decision-making, and personalising services. It can also help us improve our operational efficiency by optimising resource allocation, streamlining processes, and enhancing performance monitoring. Furthermore, AI can help us address our challenges by providing insights into complex issues, predicting future trends, and enabling innovative solutions. 
+
+ 
+
+However, harnessing the power of AI is not without its challenges. These include the need for significant investment in AI technology and skills, the need to ensure the ethical and responsible use of AI, and the need to manage the impacts of AI on our workforce and our residents. Our AI strategy is designed to address these challenges, guided by the principles of fairness, transparency, and accountability. 
+
+ 
+
+
+ 
+
+In developing this strategy, we have drawn on the UK National AI Strategy, which provides a national framework for the development and use of AI, and the ABC Organisation Strategy, which outlines our council's objectives and priorities. 
+
+ 
+
+Birmingham Way defines the key areas that we should be working towards. The AI strategy aligns with the priorities and objectives of the organisation as follows. 
+
+ 
+
+Our purpose as the council is to tackle inequality and ensure that no one is left behind as defined in our corporate strategy. AI can contribute to this purpose in several ways: 
+
+Personalised Services: AI can help us deliver more personalised services, which can better meet the diverse needs of our residents and reduce inequality. 
+
+Improved Decision-Making: AI can provide us with better insights and data, which can improve our decision-making and help us target our resources more effectively. 
+
+Efficiency: AI can help us improve the efficiency of our services, which can free up resources for the most vulnerable residents. 
+
+ 
+
+ 
+
+Our organisation, we aim to be an organisation that delivers high-quality and sustainable services for all. AI can support this aim in several ways: 
+
+Innovation: AI can drive innovation in our services, helping us to deliver better outcomes for residents. 
+
+Sustainability: AI can help us manage our resources more effectively, contributing to the sustainability of our services. 
+
+Collaboration: AI can facilitate better collaboration both within our organisation and with external partners. 
+
+Our people: We want our people to reach their full potential and to embody a culture of inclusivity, trust, accountability, and adaptability. AI can support our people in several ways: 
+
+Skills Development: AI can provide our staff with new skills and capabilities, helping them to reach their full potential. 
+
+Inclusivity: AI can help us create a more inclusive workplace, for example by supporting flexible working practices. 
+
+Efficiency: AI can automate routine tasks, freeing up our staff to focus on more complex and rewarding work. 
+
+Adaptability: AI can provide our staff with new tools and insights, helping them to adapt to new challenges and opportunities. 
+
+ 
+
+ 
+
+ 
+
+We aim to achieve this by focusing on four key priorities: growing a sustainable economy, tackling health inequality, enabling a greener future, and empowering communities. AI can contribute to these priorities in several ways: 
+
+Growing a Sustainable Economy: AI can drive innovation, improve efficiency, and create new opportunities for businesses and residents. This can contribute to the growth of a sustainable economy. 
+
+Tackling Health Inequality: AI can enable us to deliver more personalised and effective health services. This can help us reduce health inequality. 
+
+Enabling a Greener Future: AI can improve our ability to monitor and manage environmental impacts. This can support our efforts to enable a greener future. 
+
+Empowering Communities: AI can provide residents with better access to information and services, and enable more effective community engagement. This can empower our communities. 
+
+ 
+ 
+
+We aim to achieve our mission of “no one is left behind” by focusing on four key priorities and how AI can help us to get to that point is explained below 
+
+ 
+
+Growing a Sustainable Economy: AI can contribute to this priority in several ways: 
+
+Driving inward investment and business retention: AI can help attract and retain businesses by providing them with valuable insights and tools that can improve their operations and competitiveness. 
+
+Creating and sustaining Quality Places: AI can help us reimagine local high streets and business and employment hubs by providing data-driven insights into what makes places economically and socially vibrant. 
+
+Maximising Opportunities: AI can help us coordinate skills provision, bring more people into work, and support residents to reach their potential, thereby helping to reduce social, economic, and health inequality. 
+
+Delivering Economic Infrastructure: AI can help us improve our transport network and digital infrastructure, making our communities more connected and accessible. 
+
+Tackling Health Inequality: AI can contribute to this priority in several ways: 
+
+Physically Healthy: AI can help us prevent physical ill health and promote physical well-being by providing personalised health advice and interventions. 
+
+Mental and Emotional Wellness: AI can help us provide early help and support to adults, young people, and children, and prevent social isolation. 
+
+Reaching Potential: AI can help us meet people’s basic needs and thrive, with services engaging in partnership action to address the wider determinants of health and supporting community-led action. 
+
+Safe: AI can help us protect children, families, and adults that most need us and enable them to feel secure from health risks and live well. 
+
+Enabling a Greener Future: AI can contribute to this priority in several ways: 
+
+A Zero Carbon Council: AI can help us reduce emissions and improve efficiency across our services, including buildings, fleet, and street lighting. 
+
+Greener Futures Communities: AI can help us enable residents and businesses to consume more sustainably, reduce emissions and waste, and foster a thriving green, low carbon, and circular economy. 
+
+Clean and Zero Carbon Infrastructure and Development: AI can help us reduce pollution and increase efficiencies from energy, transport, and infrastructure. 
+
+Thriving and Biodiverse Urban and Rural Natural Environment: AI can help us manage and protect our natural environment, including green and blue spaces, and support nature recovery. 
+
+Climate Change Resilience: AI can help us make our communities, infrastructure, and developments more resilient to the changing climate. 
+
+Empowering Communities: AI can contribute to this priority in several ways: 
+
+Accessibility and Inclusion: AI can help us ensure that all residents can access the information, support, and services they need at the right time and in the right way. 
+
+Greater Influence: AI can help us enable people of all ages and backgrounds to influence our priorities and shape our services and practices. 
+
+Prevention and Early Intervention: AI can help us provide support earlier and reduce crisis events. 
+
+Community Cohesion and Place Shaping: AI can help us make more residents feel connected to their local community and set and deliver local priorities. 
+
+Transforming How We Work: AI can help us work more effectively with communities and partners, providing our staff with the skills to work alongside communities as part of joined-up services across Birmingham. 
+
+ 
+
+This AI strategy will be reviewed and updated regularly to reflect the council’s evolving needs and priorities, the changing AI landscape, and the lessons we learn from our AI initiatives. We look forward to working with our staff, our residents, our partners, and other stakeholders to implement this strategy and harness the power of AI to improve our services, our operations, and our outcomes.
+ 
+ 
+
+ 
+
+Understanding AI 
+
+ 
+
+Artificial Intelligence (AI) is a broad field of computer science that involves the development of machines and software that can perform tasks that normally require human intelligence. These tasks include learning from experience, understanding natural language and speech, recognising patterns, solving problems, and making decisions. 
+
+ 
+
+AI technologies include machine learning, where computers learn from data without being explicitly programmed; natural language processing, which enables computers to understand and generate human language; and computer vision, which enables computers to interpret and understand the visual world.  
+
+ 
+ 
+
+At ABC we have already started using AI in several initiatives including developing chatbots’ intents and training them with conversational data, developing machine learning models in social care to analyse the trends and predict demand, prioritise urgent enquiries based on emergency. With the recent advancement in AI, particularly in Generative AI, the possibilities of what we can achieve has been greatly enhanced.  
+
+ 
+
+AI has the potential to deliver significant benefits for the ABC and our residents. Some of these include: 
+
+ 
+
+Improved Service Delivery and Resident Experience: AI can help us deliver more efficient, effective, and personalised services. For example, AI can be used as in the chatbots to answer common queries or process payments and applications, freeing up our staff to focus on more complex and value-added tasks. 
+
+ 
+
+Increased Operational Efficiency: AI can help us improve our operational efficiency by optimising our resource allocation, streamlining our processes, and enhancing our performance monitoring. For example, AI can help us predict demand for our services, optimise our workforce scheduling, and monitor our performance in real-time in social care. 
+
+New Working Models and Service Innovation: AI can enable us to innovate and transform our services, our operations, and our ways of working. For example, AI can enable us to develop new services, such as virtual assistants or predictive maintenance systems, and new ways of working, such as data-driven decision-making, creating or finding the content and presenting it in a concise and consistent manner. 
+
+ 
+
+Enhanced Decision-Making: AI can help us make better decisions by providing insights into complex issues, predicting future trends, and simulating the impacts of different options. For example, AI can help us identify patterns and trends in our social care or financial data that can inform our strategies and policies. Although this is the level where we want to reach our ambition, we are far from this maturity.  
+
+ 
+
+ 
+
+Additionally, 
+
+ 
+
+AI can aid in data-driven decision making for policy and planning, helping to ensure resources are allocated effectively and policies are designed to meet the needs of all residents. The challenge here is ensuring the AI system has access to accurate and comprehensive data, and that it is programmed to consider all relevant factors and potential impacts of decisions. 
+
+Generative AI can help in automating content creation for public communications, ensuring information is disseminated quickly and effectively. The challenge is to ensure the AI-generated content is accurate, relevant and understandable to all residents, and that it maintains a consistent tone and style  
+
+Speech and voice recognition technologies can greatly enhance accessibility services for residents, allowing them to interact with digital services using voice commands. The challenge is to ensure these technologies can accurately understand and respond to a wide range of voices and accents and can operate effectively in noisy environments. 
+
+Computer vision or image recognition can help in automated monitoring and maintenance of public spaces, quickly identifying potential safety hazards or instances of vandalism. The challenge is to ensure these systems respect privacy rights and are not used for unwarranted surveillance. They must also be able to operate effectively in different lighting and weather conditions, and accurately identify a wide range of objects and situations. 
+
+Predictive Analytics: Using AI to predict future trends and issues can help Birmingham become a proactive county that anticipates and responds to the needs of its residents. This could be used in areas like healthcare, social services, and infrastructure planning. The challenge is to ensure predictions are accurate and based on comprehensive and up-to-date data. 
+
+AI in Education: AI could be used to personalise education and support lifelong learning, helping Birmingham become a place where everyone has the opportunity to learn and grow. This could include AI tutors, adaptive learning platforms, and AI tools to support teachers. The challenge is to ensure these technologies are accessible to all and do not replace the human touch in education. 
+
+ 
+
+ 
+
+ 
+
+On the other hand, harnessing the power of AI also presents challenges. These include: 
+
+ 
+
+Investment: Developing and implementing AI requires significant investment in technology, data, and skills. This includes the cost of AI software and hardware for computing, the cost of collecting, cleaning, and managing data, and the cost of training our staff to use AI. 
+
+ 
+
+Ethics and Responsibility: Using AI raises ethical and responsibility issues, such as the potential for bias in AI decisions, the impact of AI on privacy and data security, and the need for transparency and accountability in AI decision-making. These are addressed in data and AI governance frameworks that we have started developing.  
+
+ 
+
+Workforce Impact: AI can impact our workforce by automating certain tasks, requiring new skills, and changing ways of working. This requires us to manage the transition to an AI-enabled workforce, including retraining and re-skilling our staff, managing change, and ensuring the wellbeing of our staff. This should be addressed in our workforce strategy.  
+
+ 
+
+Regulation and Governance: Using AI requires us to comply with regulations and governance frameworks, such as data protection laws, AI ethics guidelines, and IT governance standards. This requires us to develop and implement appropriate policies, procedures, and controls. 
+
+ 
+
+ 
+
+This AI strategy aims to harness the benefits of AI while addressing the ABC’ challenges, guided by our principles of fairness, transparency, and accountability. We are committed to using AI to improve our services, our operations, and our outcomes, while ensuring the ethical and responsible use of AI, the wellbeing of our workforce, and the trust and confidence of our residents. 
+
+ 
+
+ 
+
+Our Vision for AI 
+
+ 
+
+We have conducted several workshops with stakeholders from representatives from different directorates in the organisation, our councillors, to understand the needs to help us to set our vision for AI. Our vision for AI in the ABC is to harness the power of AI to improve our services, our operations, and our outcomes, in line with our council's objectives and priorities, and in alignment with the UK National AI Strategy. 
+
+ 
+
+We envision a future where AI is an integral part of our council, enhancing our service delivery, improving our operational efficiency, informing our decision-making, and driving our innovation. We see AI as a tool that can help us achieve our objectives of growing a sustainable economy, tackling health inequality, enabling a greener future, and empowering thriving communities. 
+
+ 
+
+ 
+
+In line with the UK National AI Strategy, our data strategy and Information Governance (IG) guidelines,  we are committed to developing and using AI in a way that is ethical, fair, and transparent. We believe that AI should be used for the benefit of all our residents, that the benefits and risks of AI should be shared equitably, and that the use of AI should be transparent and accountable. 
+
+ 
+
+Our vision for AI includes the following key elements: 
+
+ 
+ 
+
+Enhanced Services: We aim to use AI to deliver more efficient, effective, and personalised services. This includes using AI to automate routine tasks like in RPA, but also personalise services based on individual needs and preferences and provide real-time information and support to our residents. 
+
+Informed Decision-Making: We aim to use AI to inform our decision-making. This includes using AI to analyse our data, predict future trends, simulate the impacts of different options, and provide insights into complex issues. 
+
+Driven Efficiency: We aim to use AI to improve our operational efficiency. This includes using AI to optimise our resource allocation, streamline our processes, and enhance our performance monitoring. 
+
+Service Innovation: We aim to use AI to drive our innovation in the services and the products. This includes using AI to develop new services, new ways of working, and new solutions to our challenges. 
+
+AI-Enabled Workforce: We aim to develop an AI-enabled workforce. This includes training our staff to use AI, retraining and reskilling our staff for AI-impacted roles, and promoting a culture of learning and innovation. 
+
+Ethical Use: We aim to use AI ethically and responsibly. This includes ensuring the privacy and security of our data, avoiding bias in our AI decisions, and being transparent and accountable in our use of AI. 
+
+ 
+
+In pursuing this vision, we are committed to working with our staff, our residents, our partners, and other stakeholders. We believe that by harnessing the power of AI, we can make our council more efficient, more effective, and more responsive, and deliver better outcomes for our residents. 
+
+ 
+
+In the words of our Chief Executive, Joanna Killian, AI could be the solution to the workforce crisis, presenting an "almost existential" challenge for the sector. As she stated in her recent blog post, "Controlled, responsive, controllable artificial intelligence could make a difference on some of the processing we do where, again, we just can’t find the workers to do it." 
+
+ 
+
+She also highlighted the need for local government to help set the ethical framework for using AI, stating, "We will invest in the moral and ethical conversations and then blooming go for it, because I can’t see what the alternative is.". This aligns with our commitment to ensuring the ethical and responsible use of AI 
+
+ 
+
+
+Guiding Principles 
+
+ 
+
+Our AI principles are the guiding values that will inform all AI activities within the ABC. These principles are designed to ensure that our use of AI aligns with our organisational values, strategic goals, and legal requirements, and that it respects the rights and interests of our residents, our staff, and other stakeholders. 
+
+ 
+
+Our AI principles are based on the Data Ethics Framework and the AI Policy that we have started developing with data strategy and Information Governance (IG) teams, and they align with the organisation strategy, and IG data relevant guidelines and standards. 
+
+ 
+ 
+
+Fairness: We will use AI in ways that are fair and that avoid unjust biases. We will seek to eliminate any potential for our AI projects to have unintended discriminatory effects on individuals and social groups. 
+
+Transparency: We will ensure that our AI technologies are transparent. Their purpose, capacities, and limitations will be openly communicated to relevant stakeholders. We will also make our AI projects and processes transparent and open to inspection. 
+
+Accountability: We will be accountable for the AI technologies we deploy and use. Clear responsibilities and accountabilities will be established and maintained throughout their lifecycle. We will also ensure that our AI decisions can be explained and justified. 
+
+ 
+
+In addition to these 3 principles coming from data ethics framework AI strategy added these after workshops with our stakeholders 
+
+ 
+ 
+
+Privacy: We will ensure that our AI technologies respect and uphold privacy rights, complying with all relevant data protection legislation, including the General Data Protection Regulation (GDPR) and the Data Protection Act 2018. 
+
+Security: We will ensure that our AI technologies are secure and resilient, with robust safeguards to protect against misuse and threats. We will also ensure that our AI data is kept securely and only for the appropriate time period. 
+
+Beneficence: We will use AI to benefit individuals, the organisation, and society at large. We will ensure that our AI projects are designed and implemented to deliver public benefits and meet user needs. As of July 2023, A User Research activity within our Digital Design Team (DDT) has been initiated to look at the user needs in detail.  
+
+Innovation: We will promote a pro-innovation approach to the use of AI, balancing risks and benefits, and supporting the use of AI to drive improvements and advancements in our service delivery. 
+
+Human-centric: We will ensure that our AI technologies are designed and used in a way that respects human rights and dignity, ensures human oversight, and allows for human autonomy. 
+
+Education and Awareness: We will foster a culture of continuous learning around AI and its impacts, ensuring our staff have access to training and resources to understand AI. We will also ensure that our staff and our residents are informed about our AI projects and their impacts. 
+
+ 
+
+In implementing these principles, we will establish an AI working group responsible for overseeing AI governance within the ABC. The group will ensure that our AI activities align with our principles, comply with all relevant laws and regulations, and promote best practices. The group will also monitor AI-related risks and incidents, and foster an environment of collaboration, inclusivity, and continuous learning around AI. 
+
+ 
+
+ 
+
+AI Maturity and Investment Roadmap 
+
+ 
+
+Our AI Maturity and Investment Roadmap outlines the phased approach we will take to develop and implement AI in the ABC. This roadmap is designed to ensure that our AI initiatives are well-planned, well-managed, and well-governed, and that they deliver tangible benefits in terms of improved service delivery, cost savings, and innovation. 
+
+ 
+
+The roadmap consists of four phases:  
+
+ 
+
+Phase 1 - Year 1 (0-12 months): Planning and Building Trust Phase.  
+
+ 
+
+This phase will lay the foundation for future AI initiatives and building the trust with refinement of some internal use cases delivered. This will be achieved via emerging AI  governance working group and community of innovation (CoI), conduct AI awareness workshops, identify sample use cases with AI CoI, develop the AI governance framework with the data team, prototype some use cases in registration, highways and land & property services, and collaborate with the University of Birmingham in prototype projects. We will also begin to foster a culture of change within the organisation, preparing our staff for the integration of AI into our operations. The investment required in this phase includes AI training for the squad, AI awareness hackathons, building or purchasing a safe platform for prototyping use cases, and resources for implementing the AI governance framework. 
+
+ 
+
+Phase 2 - Year 2 (12-24 months): Experimenting Phase.  
+
+ 
+
+This phase will start to deliver tangible benefits in terms of improved service delivery and cost savings. We will pilot selected use cases in some key initiatives, integrate AI with our chatbot platform and Robotic Process Automation (RPA), upskill the data analytics and automation teams, and increase collaboration with more universities. We will also continue to manage organisational change and ensure regulatory compliance as we experiment with AI. The investment required in this phase includes AI tools, infrastructure for piloting use cases, a data warehouse and data lakes, and hiring a data engineer and a data scientist to develop models. 
+
+ 
+
+Phase 3 - Year 3 (24-36 months): Scaling Up Phase.  
+
+ 
+
+This phase will deliver further improvements in service delivery and cost savings. We will apply more use cases to other services, develop new AI solutions based on lessons learned from pilot projects, strengthen collaboration with external partners including D&Bs and Police and NHS, integrate AI with residents' channels including voice and chatbot, and refine the AI governance framework based on implementation experiences. We will also focus on managing the cultural and organisational changes associated with scaling up AI, and ensure ongoing regulatory compliance. The investment required in this phase includes continued investment in AI tools and infrastructure, hiring additional data engineers and data scientists, and hiring a Machine Learning (ML) engineer to support and maintain models. 
+
+ 
+
+Phase 4 - Year 4+ (36+ months): Advanced Phase.  
+
+ 
+
+This phase will deliver significant long-term benefits in terms of improved service delivery, cost savings, and innovation for the council. We will fully integrate AI into the council's operations and decision-making processes, continuously innovate and adopt cutting-edge AI technologies, and establish the ABC as a leading example of AI-driven local government. We will also focus on managing the cultural and organisational changes associated with advanced AI use, and ensure ongoing regulatory compliance. The investment required in this phase includes continued investment in AI tools and infrastructure, hiring additional data engineers, data scientists, and ML engineers, and setting aside a budget for the purchase of new tech. 
+
+ 
+
+This roadmap is summarised in a table below and will be a living document, which will be reviewed and updated regularly to reflect our evolving needs and priorities, the changing AI landscape, and the lessons we learn from our AI initiatives. We look forward to working with our staff, our residents, our partners, and other stakeholders to implement this roadmap and harness the power of AI to improve our services, our operations, and our outcomes. 
+
+ 
+
+ 
+
+Year 
+
+Maturity Phases and What 
+
+Investment Required 
+
+Year 1 (0-12 months) 
+
+Phase 1: Building Trust and laying the foundation for future AI initiatives. 
+
+Establish reassurance with provisional governance and guidelines,  
+
+Establish the AI working group and community of innovation (CoI),  
+
+Conduct AI awareness workshops. 
+
+Identify sample use cases with AI CoI,  
+
+Develop the AI governance framework with data team,  
+
+Prototype some use cases in registration, highways and land& property services (internal use cases) 
+
+Collaborate with University (UoS) in prototype projects 
+
+Conduct User Research activities to understand user needs and concerns 
+
+ 
+
+Investment in AI training for the squad, 
+
+AI awareness hackathons,  
+
+Build/ purchase a safe platform for prototyping use cases. 
+
+Resources for implementing the AI governance framework. (internal resources) 
+
+ 
+
+Year 2 (12-24 months) 
+
+Phase 2: Experimenting the AI use cases, this phase will start to deliver tangible benefits in terms of improved service delivery and cost savings. 
+
+ 
+
+Pilot selected use cases in some key initiatives (some use cases are listed below)  
+
+Integrate to chatbot platform and RPA  
+
+Upskill the data analytics and automation teams 
+
+Increase collaboration with more universities local academia and universities  
+
+Scaling up infrastructure as required based on the evidence from pilot use cases 
+
+ 
+
+AI tools (Python, Druid , UIPath, ChatGPT and/or CoIilot licences, or specific libraries or OTS products e.g. Provalis) 
+
+Infrastructure (Azure credits computing resources VMs and GPUs) for piloting use cases,  
+
+(MS Azure resources) 
+
+Data storage data warehouse , data lakes  
+
+Data engineer (1 FTE) and data scientist (1 FTE) to develop models   
+
+Training/ upskilling for data analytics and automation teams, 
+
+Year 3 (24-36 months) 
+
+Phase 3: Scaling up, this phase will deliver further improvements in service delivery and cost savings. 
+
+More use cases to other services, develop new AI solutions based on lessons learned from pilot projects 
+
+Strengthen collaboration with external partners incl. D&Bs and Police and NHS,  
+
+Integrate to residents channels including voice, chatbot etc. 
+
+Refine the AI governance framework based on implementation experiences.  
+
+Continued investment on  
+
+AI tools (Python, ChatGPT and/or CoIilot licences, or specific libraries or OTS products e.g. Provalis) 
+
+Infrastructure (Azure credits computing resources VMs and GPUs) for piloting use cases,  
+
+(MS Azure resources) 
+
+Data engineer (1 FTE) and data scientist (2 FTE) to develop new models and refine existing models  
+
+ML engineer (1 FTE) to support / maintain models  
+
+Year 4+ (36+ months) 
+
+Phase 4:  Advanced , this phase will deliver significant long-term benefits in terms of improved service delivery, cost savings, and innovation for the council.  
+
+ 
+
+Fully integrate AI into the council's operations and decision-making processes, continuously innovate and adopt cutting-edge AI technologies, and establish ABC as a leading example of AI-driven local government.  
+
+Continued investment on  
+
+AI tools (Python, ChatGPT and/or CoIilot licences, or specific libraries or OTS products e.g. Provalis) 
+
+Infrastructure (Azure credits computing resources VMs and GPUs) for piloting use cases,  
+
+(MS Azure resources) 
+
+Data engineer (2 FTE) and data scientist (3 FTE) to develop new models and refine existing models  
+
+ML engineer (2 FTE) to support / maintain models and for continuous deployment / integration of models (operations) 
+
+ 
+
+In the maturity roadmap a stage gate approach is suggested to provide a structured process for managing the development and implementation of our AI initiatives. Each phase of the roadmap represents a stage of AI maturity, with specific objectives and success metrics. At the end of each phase, a gate decision is made based on whether the success metrics have been met and whether the risks associated with the next phase are deemed manageable. The possible gate decisions are "Go" (proceed to the next phase), "Kill" (terminate the project), "Hold" (pause the project), and "Conditional Go" (proceed to the next phase with specific issues to be addressed). This stage gate process ensures that our AI initiatives are effectively managed and aligned with our objectives and priorities, and that risks are identified and addressed at each stage of development. It provides a clear path for progression, while allowing for flexibility and adaptability in response to changing circumstances and learnings from each phase. 
+
+ 
+
+The first phase of stage gate maturity roadmap will give us the opportunity to review our progress against the success metrics and risks associated with using AI in the organisation with internal use cases before we invest and risk more. The gate decision is important for the AI strategy because it ensures that we are ready to move forward with implementation of AI in a broader context. It also ensures that we have built solid foundations in terms of governance, staff awareness, and initial prototyping, and that we are ready to invest more and to experiment with AI in a more extensive and potentially riskier context with external use cases. If we were to continue to the next stage without meeting the success metrics, we could face significant challenges and risks in the second phase.  
+
+ 
+
+ 
+
+Use Cases 
+
+ 
+
+Our AI use cases are practical applications of AI that we have identified to improve our services, our operations, and our outcomes. This list is not exhaustive, and these use cases were selected based on their potential to deliver tangible benefits and outcomes in terms of improved service delivery, cost savings, and customer experience, and their alignment with our council's objectives and priorities.  
+
+ 
+
+
+ABC Resources: Automating routine tasks such as data entry, email generation, and appointment management. This can free up staff time for more complex tasks. As a next phase, AI can be used to generate documents, such as reports, slide decks, emails based on data. AI can also be used to manage casework, helping to prioritise tasks, follow up and track progress. 
+
+ 
+
+Social Care (ASC and CFLL): The chatbots that we have implemented are providing 24/7 support, handling routine enquiry, freeing up human resources, and reducing costs. Predictive analytics can identify at-risk individuals, improving intervention efficiency. For example, AI can analyse data from various sources (LAS, LCS, schools- Synergy, Eyes etc) to identify individuals who are at high risk of social issues, enabling early intervention and potentially preventing crises. 
+
+ 
+
+Personalised Care Packages: AI can utilise predictive models to create personalised care packages in adult and children's social care, enhancing service quality while optimising resource allocation. This can help to provide more targeted and effective care, reducing unnecessary costs and improving outcomes for individuals. 
+
+ 
+
+Road and Transport Maintenance: Machine Learning predictive analytics can pre-empt maintenance needs, saving on maintenance costs. For example, AI can analyse data from various sources to predict infrastructure issues such as potholes on roads. By predicting these issues before they become severe, the council can perform preventative maintenance, leading to cost savings in the long run. 
+
+ 
+
+Emergency Planning & Community Safety: Monitor emails and transcripts of voice, freeing up human resources. Generative AI (CoIilot,ChatGPT) can synthesise reports quickly, reducing administrative costs. For example, AI can analyse emails and voice channels to detect potential safety issues, enabling early intervention and potentially preventing accidents or crimes. 
+
+ 
+
+Health, Welfare & Wellbeing Support: For tracking health trends and identifying needs for welfare services, improving resource allocation. For example, AI can analyse health data to identify individuals who are at high risk of health issues, enabling early intervention and potentially preventing health crises. 
+
+ 
+
+These use cases are just the beginning. As we continue to develop our AI capabilities and learn from our AI initiatives, we expect to identify additional use cases that can deliver even greater benefits for the council and our residents. Some of these additional use cases were defined in the use cases prism below. In this prism we have categorised use cases into four quadrants, based on their feasibility and business value.  
+
+ 
+
+Sample Use Case: SEN Report Writing and Drafting with AI Capabilities 
+
+Discovered by: Bryan Smith, Solutioned by: Mehmet Kaynakci   
+
+Problem Statement:  
+
+Special education needs (SEN) report writing requires the consolidation of information from various sources, including Assessment Psychologists, referred GPs, and social care professionals. Manually gathering, analysing, and summarizing this information is time-consuming and can lead to inconsistencies or omissions in the final report.  
+
+Potential Solution:  
+
+Leverage Azure, OpenAI's ChatGPT capabilities, and UIPath RPA tools to create an AI-driven report writing system for SEN:  
+
+Data Aggregation and Collection with RPA:  
+
+In scenarios where data sources are diverse like in this case, and direct API integrations aren't feasible, our existing RPA tools can be employed. These tools can automate the process of extracting information from emails, legacy systems, and other non-API sources.  
+
+Azure's data storage services can be used to store the aggregated information in a centralised location, ensuring all relevant data is easily accessible.  
+
+Information Summarization: Utilise OpenAI's ChatGPT capabilities to read and understand the information from various sources. The AI can then generate concise summaries of the key points from each source.  
+
+Report Generation: The AI system can be trained to understand the structure and requirements of the SEN report. Using this knowledge, it can automatically fill in the relevant sections of the report with the summarized information.  
+
+Review & Finalization: Once the AI generates the draft report, staff can review and make any necessary adjustments, ensuring the final report is accurate and meets the required standards.  
+
+Continuous Learning: The AI system can learn from feedback and corrections made by the staff, ensuring that its future report generations are even more accurate and tailored to the organization's needs.  
+
+Benefits:  
+
+Efficiency: Automating the data aggregation and report generation processes can significantly reduce the time taken to produce SEN reports. Staff can focus on reviewing and finalizing reports rather than spending hours manually compiling them.  
+
+Consistency: AI-driven report generation ensures that all reports maintain a consistent format and quality.  
+
+Accuracy: By leveraging AI and RPA tools, the chances of omitting crucial details or misplacing information are minimized.  
+
+Benefits to Residents: Faster report generation means that residents and their guardians receive timely updates and interventions. Accurate and comprehensive reports ensure that the special education needs of the residents are adequately addressed.  
+
+Organisational Benefits: The organisation benefits from improved staff satisfaction, reduced manual errors, and the ability to handle a larger volume of reports without compromising on quality.  
+
+ 
+
+ 
+
+ 
+
+Funding Options for the use cases and initiatives in Roadmap 
+
+The strategy considers some options for funding AI initiative and use cases  
+
+Bid for the Fund of Overall AI Program: 
+
+We made a comprehensive bid to finance to be submitted to Cabinet and CLT to secure funding for a potential AI program, covering all anticipated costs for the next three years.  With this model we provided clarity on the budget required and we plan to have the necessary financial backing from the outset for initiatives within the AI strategy.  
+
+ 
+
+With secured funding, we can confidently initiate the foundational steps, such as setting up the safe environment for potential ideas and trials, establishing governance structures, and beginning pilot projects. 
+
+ 
+
+As the AI initiatives scale up in upcoming years, we can invest in more advanced tools, technologies, and training without financial constraints. This ensures smooth execution of projects like expanding AI use cases and integrating AI into business processes. 
+
+ 
+
+Charge Back to Services: 
+
+ 
+
+We propose a centralized fund or "pot" is established for AI-related initiatives within IT&D. The pot is contributed by services based on their projected use of IT&D resources and AI capabilities. As these services utilise the AI resources or require support, costs are charged back to them from the pot. This model ensures that departments are directly accountable for their AI initiatives, promotes efficient use of IT&D resources, and ensures that the digital programme within IT&D remains self-sustaining. 
+
+  
+
+As foundational structures in Year 1 are set up, services contribute to the pot based on their anticipated AI needs and use cases identified. They are then charged for initial projects, training, and IT&D support. This ensures that departments are financially prepared for their AI journey and incentivises them to plan efficiently. 
+
+ 
+
+As AI initiatives expand, services continue to contribute based on their scaling needs. They are charged based on the complexity, scale, and IT&D support their projects require. This will then promote responsible scaling and ensures that IT&D resources are allocated where they have the most impact. 
+
+ 
+
+This charge back model, aligned with the digital program, can ensure that the AI initiatives are closely tied to the actual needs and financial capabilities of the services. It promotes a culture of responsibility, planning, and efficient use of resources. 
+
+ 
+
+ 
+
+Additional Funding Options Considered: 
+
+Grants and External Funding: We will explore opportunities for grants from UK government, international organisations, or research institutions or programmes that support AI initiatives. 
+
+Public-Private Partnerships (PPP): We are considering collaboration with private sector companies to co-fund AI initiatives. This can bring in external expertise and reduce the financial burden on ABC. 
+
+Revenue Sharing with Vendors: We will engage with some existing and potential suppliers or vendors on a revenue-sharing basis. This can reduce upfront costs and align vendor interests with the success of the AI programme. 
+
+ 
+
+For a risk-averse yet ambitious organization like ABC, the charge back model is suggested as it can offer the right balance between fiscal responsibility and the pursuit of innovative AI initiatives. There are several reasons for favouring charge back model 
+
+ 
+
+Financial Accountability: Each service will be directly accountable for its AI initiatives. By charging services based on their actual usage or the resources they consume, it will promote a sense of ownership and responsibility. Services are more likely to be wise in their use of AI resources, ensuring that projects align with genuine needs and deliver outcomes for residents and staff. 
+
+Budget Predictability: The charge back model can offer a level of predictability in budgeting. Services contribute to the centralized pot based on their projected needs, allowing for better financial planning. This is particularly appealing to risk-averse organizations like ABC that prioritise fiscal responsibility. 
+
+Efficient Use of Resources: Since services are charged based on their consumption of resources, there's an inherent incentive to use resources efficiently. This can lead to better project scoping, prioritization of high-impact initiatives, and a focus on achieving tangible outcomes. 
+
+Self-sustaining IT&D BAU and Transformation program: The model can help IT&D and digital programme remaining self-sustaining, as it operates based on the funds contributed by the services. This will reduce the need for external funding or budgetary allocations, which can be challenging to secure in short term. 
+
+Alignment with Ambition: Some services might be more ambitious than others. The model will give more opportunity to the ones that wish to pursue ambitious AI projects can do so, provided they contribute accordingly to the pot. 
+
+Transparency: The charge back model offers transparency in how funds are used. Services can see how their contributions are being utilised 
+
+Flexibility to Scale: The charge back model can allow for flexibility in scaling AI initiatives. If a service sees positive outcomes from its initial AI projects and wishes to expand, it can adjust its contributions to the pot accordingly. 
+
+AI Governance Framework 
+
+ 
+
+While control and risk management are undeniably important with a governance, especially in the rapidly changing context of AI, we aim a better governance that doesn’t hinder ABC's potential. A balanced approach that prioritizes innovation and growth, while also considering risks, is essential for organizations to fully harness the transformative power of AI for the serve our residents better and build a better future workforce. 
+
+ 
+
+ABC operates under tight budgetary constraints and budget gap requires a critical attention. By focusing on growth and innovation, ABC can identify cost-saving opportunities faster and allocate resources more efficiently, ensuring maximum value for residents. Additionally, an innovation-focused governance will allow ABC to leverage AI to improve our services and customer experience, making them more efficient and user-friendly. 
+
+ 
+
+AI Governance Framework outlines the structures, processes, and principles we will use to ensure that our AI initiatives are ethical, responsible, and compliant with all relevant laws and regulations. This framework is based on the Data Ethics Framework by involvement of IG and data teams, and it aligns with the UK National AI Strategy, Organisational Strategy, Digital Strategy, Data Strategy and other relevant guidelines and standards. 
+
+ 
+
+We emphasize leveraging existing governance processes including DPIA, SRA and data ethics framework because  
+
+Building upon established processes reduces the time and resources required to develop a new framework from scratch.  
+
+Using existing processes ensures alignment with the organization's current values, principles, and operational standards. 
+
+Stakeholders feel more familiar with a governance framework that builds upon known and accepted processes. 
+
+Reinventing the wheel can lead to duplication of efforts and potential conflicts with existing processes. 
+
+How existing frameworks are understood and used in this governance is explained below 
+
+Data Ethics Framework: ABC data ethics framework designed and owned by data team, and it provides guiding principles, guidelines on the moral implications and responsibilities around utilising data and AI in ABC.  As far as AI domain is concerned, AI ethical considerations and governance framework builds upon data ethics framework to define the principles and guidelines. As outlined in the document , data ethics framework also applies to AI projects. As the document appreciates, AI is a fast moving field and there are novel applications and potential challenges – this will mean that there are particular ethical dimensions to AI projects, where AI governance will define and guide.  
+
+In summary, AI governance framework doesn't operate in isolation. It appreciates and acknowledges the importance of the data ethics framework. For AI projects, the guiding principles and guidelines of the data ethics framework are still applicable. This ensures consistency in ethical considerations, whether it's a data project or an AI project.   
+
+Data Protection Impact Assessment: DPIA is the process designed and owned by IG team to help ABC services systematically analyse, identify, and minimize the data protection risks of a project or system. It focuses specifically on assessing the impact on personal data protection. 
+
+Security Risk Assessment: SRA is the process that is owned by IT&D and helps identify, assess, and prioritize risks related to information security. It focuses on potential threats to data integrity, confidentiality, and availability. 
+
+Data Ethics Framework also defines the process how the DPIA and SRA is integrated into the governance process. When it comes to existing processes such as DPIA and SRA, the AI governance framework will primarily rely on the processes defined by the data ethics framework. This is because the foundational principles of data protection and security remain consistent, whether we're discussing data or AI. However, given the unique challenges posed by AI – such as the generative AI, black-box nature of certain algorithms, potential biases in AI models, or the dynamic learning capabilities of AI systems – there might be specific domains where the AI governance framework will introduce additional guidelines or checks. These will be to ensure that the AI-specific challenges are adequately addressed without compromising on the ethical and security standards set by the data ethics framework. 
+
+ 
+
+What Innovation & Growth Focus means for ABC within AI Strategy Context: 
+
+  
+
+Prioritise projects and use cases that have the potential for significant innovation, growth and savings. Encourage teams to experiment and take calculated risks. 
+
+Linked with an AI Community of Innovation (CoI) where teams can collaborate, experiment, and develop new AI solutions at pace. 
+
+ 
+
+AI Governance Working Group (WG): 
+
+ 
+
+We have started to establish a working group responsible for overseeing AI governance within the ABC. This group is responsible for overseeing AI governance. They ensure that AI activities align with guiding principles, comply with relevant laws and regulations, and promote best practices. They also monitor AI-related risks and incidents and foster an environment of collaboration, inclusivity, and continuous learning. 
+
+  
+
+Short term objectives of WG 
+
+Third-party AI Tool Usage Guidelines: Define clear guidelines on how to use third-party AI tools, ensuring security and compliance. 
+
+Safe Use of AI: Establish policies and best practices for the safe and ethical use of AI technologies. 
+
+Data Privacy & Security: Ensure AI initiatives prioritize data privacy and adhere to ABC security standards. 
+
+Compliance & Regulatory Adherence: Ensure AI initiatives adhere to relevant regulations and compliance standards within ABC and national level. 
+
+Risk Management: Identify, assess, and mitigate potential risks associated with AI projects. 
+
+ 
+
+Mid to Long term objectives  
+
+Value Delivery Assessment: Evaluate the potential value and ROI of AI initiatives. 
+
+Prioritization of Opportunities: Rank AI opportunities based on their potential impact, feasibility, and alignment with ABC's objectives. 
+
+Resource Allocation: Allocate necessary resources, including budget, personnel, and infrastructure, to AI projects. 
+
+Training & Skill Development: Invest in training programs to upskill employees in AI and related technologies. 
+
+Feedback & Continuous Improvement: Establish a feedback loop to continuously improve AI initiatives based on stakeholder input and performance metrics. 
+
+ 
+
+ 
+
+Key Stakeholders to be Involved in the structure: 
+
+  
+
+Services (Head of services) : Ensures that AI solutions are in line with the service strategies to meet their and residents’ expectations. 
+
+IT&D Team: Responsible for developing the AI strategy with key stakeholders, alongside providing the necessary infrastructure, tools, and platforms for AI development and deployment. The team consists of digital consultants, business partners, programme managers, architects.  
+
+Data / Data Strategy Team: Provides guidance and ensures that the AI governance work is aligned with the data strategy and ethics framework  
+
+Information Governance (IG) Team: Provides guidance on ABC and national level IG standards and processes  
+
+Security Team: Ensures that AI solutions are secure and adhere to ABC security standards. 
+
+Infrastructure Team: Provides the necessary hardware and software support for AI projects. 
+
+Corporate Strategy and Risk Team: Aligns AI projects with corporate strategy and assesses potential risks. 
+
+Automation and Data Analytics Teams: Provides expertise in automating processes and data analytics and modelling. 
+
+ 
+
+Implementation Models Considered: 
+
+  
+
+Decentralised Model: Services have autonomy over their projects and tools. Although this might seem to promote agility and innovation but may lead to increased costs (shadow IT), duplication and inconsistencies and risks. 
+
+Centralised Model: A single team or entity makes decisions. This ensures better consistency and compliance but may slow down decision-making. 
+
+Hub and Spoke Model: A central team (hub) provides guidelines, and individual teams (spokes) work on their projects. This model combines the benefits of both centralised and decentralised models. 
+
+ 
+
+Proposed Model:  
+
+ 
+
+It is proposed in this strategy that The Hub and Spoke model will be more suitable for ABC that combines the benefits of both centralised and decentralised model and to use our resources (human and technology) efficiently. The WG group (hub) with can ensure that best practices are followed, and resources are allocated efficiently. The individual teams (spokes) can then focus on their projects, ensuring agility and innovation. With the Hub and Spoke model, the central team can develop specialized AI models that can be used by multiple teams. This ensures that resources are used efficiently and that there's consistency in the AI solutions developed. 
+
+ 
+
+ 
+
+ 
+
+Policy on Using 3rd Party AI Tools Including Generative AI – ChatGPT 
+
+ 
+
+Staff members are likely already using generative AI tools like ChatGPT, either experimentally or to support their job-related tasks. When developing this policy we relied on the Strategic Blueprint for AI Capability document developed in East Sussex County Council (EABC) and presented to EABC’s CMT. This again helped us to reduce the time and resources required to develop a new policy and guideline from scratch. 
+
+ 
+
+ 
+
+This policy aims to strike a balance between leveraging the benefits of 3rd party AI tools and ensuring data safety and compliance. 
+
+ 
+
+ 
+
+With this policy we aim  
+
+to provide clear guidelines for the safe and responsible use of 3rd party AI tools, including generative AI, while ensuring alignment with ABC’s data ethics and governance framework. 
+
+To avoid shadow usage and ensure compliance, this policy provides clear do's and don'ts for using such tools.  
+
+ 
+
+Different than EABC’s guidelines we propose using Safe Environment that automates the Information Triaging process given the complexity and potential risks, the triaging process should not be left to individual users.   
+
+  
+
+To ensure data safety and compliance, an automated environment will be established to triage and check the information shared using these tools. 
+
+This environment will automatically assess the data against the criteria mentioned in the policy document. 
+
+ 
+
+ 
+
+Regardless of this Safe Environment is available or when it will be available, all staff members of ABC should comply with this policy and  are encouraged to familiarize themselves with this policy and consult with the governance working group or IG Officer for any clarifications. 
+
+ 
+
+This policy provides a structured approach to using 3rd party AI tools while ensuring that the unique challenges posed by AI are addressed without compromising on the ethical and security standards set by ABC's data ethics framework. 
+
+  
+
+SCoIe: 
+
+This policy applies to all staff members of ABC who intend to use or are currently using 3rd party AI tools for any business-related tasks. 
+
+  
+
+Usage Guidelines: 
+
+  
+
+DON'Ts: 
+
+Do not input any personally identifiable information (PII). 
+
+Do not input any sensitive information. 
+
+Do not input any intellectual property (IP). 
+
+DO's: 
+
+Turn off history if using external tools that offer this option. 
+
+Closely monitor outputs for any errors, biases, or inappropriate statements. 
+
+Consult with your Departmental IG Officer before using the tool for any business purpose. 
+
+ 
+
+Guidance: 
+
+  
+
+Before using generative AI for external-facing content, test extensively with internal stakeholders. 
+
+Be transparent about interactions with AI tools. 
+
+Set up processes to track biases and validate results continuously. 
+
+Address privacy and security concerns proactively. 
+
+Use the tool in beta mode for an extended period to manage expectations. 
+
+ 
+
+Best Practice Model:  
+
+  
+
+Safe to Use: No PII, data safe for public, no IP, AI not making decisions. 
+
+Can be Used Conditionally: No PII, involves business data, AI not making decisions. 
+
+Cannot be Used: Involves PII, confidential data, IP, or AI making decisions. 
+
+  
+
+
+Partnerships 
+
+ 
+
+Our AI partnerships are crucial to the success of our AI initiatives. These partnerships provide us with access to expertise, resources, and technologies that we may not have in-house, and they enable us to collaborate with other organisations to develop and implement innovative AI solutions. 
+
+ 
+
+Our AI partnerships include: 
+
+ 
+
+Universities: We have established partnerships with local academic institutions, including the University of Birmingham, to collaborate on AI projects. These partnerships provide us with access to cutting-edge AI research and technologies, and they enable us to work with leading AI experts to develop and implement our AI initiatives. We have delivered an AI based enhanced knowledge management project in collaboration with University of Birmingham (UoS)   
+
+ 
+
+External Partners: We have also established partnerships with external organisations, including District and Borough Councils (D&B)s, Police, and NHS. These partnerships enable us to collaborate on AI initiatives that span multiple sectors and disciplines, and they provide us with access to additional data, resources, and expertise. 
+
+ 
+
+Technology Providers: We are working with technology providers to access the AI tools and infrastructure we need for our initiatives. This includes Druid, UIPath, ChatGPT, and Microsoft CoIilot, Provalis as well as specific libraries in Python. 
+
+ 
+
+Community of innovation (CoI): We aim to establish a CoI to foster collaboration and knowledge sharing among our staff and our partners. The CoI is a forum where we can stimulate innovation with new ideas, share our experiences, learn from each other, and work together to solve common challenges. 
+
+ 
+
+Moving forward, we will continue to develop and expand our AI partnerships. We will seek out new partners who can help us to achieve our AI objectives, and we will work with our existing partners to deepen our collaborations and maximise the benefits of our partnerships. 
+
+ 
+
+Our AI partnerships are governed by our AI Governance Framework, which ensures that all our partnerships are ethical, responsible, and compliant with all relevant laws and regulations. 
+
+ 
+
+ 
+
+Training and Skills Development 
+
+ 
+
+Our AI Training and Skills Development program will be a key component of our AI strategy. This program is designed to ensure that our staff have the skills and knowledge they need to effectively use AI in their roles, and to foster a culture of continuous learning and innovation within the ABC. 
+
+ 
+
+Our AI Training and Skills Development program includes: 
+
+ 
+
+AI Awareness Workshops: We will conduct AI awareness workshops to educate our staff about AI and its potential benefits and challenges. These workshops will cover the basics of AI, including what it is, how it works, and how it can be used in a local government context. 
+
+ 
+
+AI Training for the Squad: We will provide specific AI training for our AI squad. This training will cover more advanced topics, including how to develop, implement, and manage AI initiatives. 
+
+ 
+
+Upskilling the Data Analytics and Automation Teams: We will upskill our data analytics and automation teams to enable them to effectively use AI in their roles. This will include training in Data Engineering, Machine Learning and Data Science as well as AI tools such as Druid, UIPath, ChatGPT, and CoIilot, Provalis as well as using specific and important libraries with Python. 
+
+ 
+
+Collaboration with Universities: We will collaborate with local academic institutions, including the University of Birmingham, to provide our staff with access to cutting-edge AI research and training opportunities. 
+
+ 
+
+Community of innovation (CoI): We will establish a CoI to foster collaboration and knowledge sharing among our staff and our partners. The CoI will provide a forum where our staff can learn from each other, share their experiences, and work together to solve common challenges. 
+
+ 
+
+Our AI Training and Skills Development program is a living program, which will be reviewed and updated regularly to reflect our evolving needs and priorities, the changing AI landscape, and the lessons we learn from our AI initiatives. 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Infrastructure and Security 
+
+ 
+
+Our AI Infrastructure will provide the tools, technologies, and resources we need to develop, implement, and manage our AI initiatives, and it aligns with our Corporate Infrastructure Strategy, which encourages the use of the Microsoft stack (CoIilot and OpenAI) and Azure resources for sustainability, cost efficiency, and ease of support and maintenance. 
+
+ 
+
+The infrastructure should/will include: 
+
+ 
+
+Microsoft Stack (CoIilot and OpenAI): We aim to use the Microsoft stack as default in every effort possible, including OpenAI and CoIilot, as part of our AI infrastructure. This provides us with a robust, maintainable , scalable, and secure platform for our AI initiatives. It also aligns with our Corporate Infrastructure Strategy, which encourages the use of Microsoft technologies. 
+
+Azure Resources: We aim to use Azure resources for our AI infrastructure for computing resources required to develop and train AI models as Azure is our preferred platform for Corporate Infrastructure Strategy. It provides us with a scalable, secure, and cost-effective solution for our AI computing needs. 
+
+Chatbot Platform (Druid): Our existing chatbot platform, Druid, now provides an extra secure layer for better governance and audited use and training of generative AI such as OpenAI or ChatGPT. This platform is a key component of our AI infrastructure, enabling us to deliver AI-powered services to our residents. 
+
+Robotic Process Automation (UIPath RPA): We use RPA as part of our automation infrastructure. RPA enables us to automate routine tasks, freeing up our staff to focus on more complex tasks. 
+
+Python: We use Python for tailored AI model development. Python is a powerful, flexible, and widely-used programming language for AI and machine learning, and it provides us with the tools we need to develop custom AI solutions. 
+
+Off-The-Shelf (OTS) Products: We use OTS products, such as Provalis, as part of our AI infrastructure. These products provide us with ready-made solutions that can be quickly and easily implemented, reducing the time and cost of developing custom solutions. 
+
+Data Integration Tools (Dell Boomi): We use Dell Boomi for data integration. This tool allows us to connect various data sources and applications, ensuring that our AI models have access to the data they need. This is crucial for AI, as the quality of the data can significantly impact the performance of AI models. 
+
+Data Quality Tools: We will use data quality tools to ensure the accuracy, consistency, and reliability of our data. These tools help us to identify and correct any issues with our data, ensuring that our AI models are trained on high-quality data. 
+
+Data Storage (Data Warehouses and Data Lakes): We will use data warehouses and data lakes for data storage. These storage solutions provide us with a scalable and efficient way to store and manage our data. Data warehouses are used for structured data and are ideal for running complex queries. Data lakes, on the other hand, can store structured, semi-structured, and unstructured data, making them ideal for big data and real-time analytics, both of which are crucial for AI. 
+
+ 
+
+Our AI Infrastructure is a living infrastructure, which will be reviewed and updated regularly to reflect our evolving needs and priorities, the changing AI landscape, and the lessons we learn from our AI initiatives. The data-related tech and infrastructure are defined under our data strategy, which aligns with and supports our AI strategy. 
+
+MS Azure AI Capabilities  
+
+Microsoft Azure AI capabilities can be categorised into several categories as below  
+
+1. Digitalization of Services: 
+
+ 
+
+Use Case: Transforming traditional ABC into digital formats for better accessibility and efficiency. 
+
+  
+
+Enhancing Existing Chatbot Services with OpenAI on Azure: 
+
+ 
+
+Application: Integrate Azure OpenAI's advanced natural language processing capabilities with Customer Services to create a more intelligent and responsive virtual assistant. This enhanced bot can better understand user queries, provide more accurate responses, and offer a more human-like interaction experience. 
+
+ 
+
+Context Awareness: OpenAI's capabilities allow the bot to be context-aware, meaning it can understand the broader context of a conversation and provide relevant responses. For instance, if a resident starts asking about making adaptations to the home and then asks, "How can I apply?", the bot will understand that the query is about explain the process including funding options available such as DFG. 
+
+ 
+
+Tone and Language Tuning: Depending on the type of enquiry and service used, the bot can adjust its tone and language. For a formal service request, it might use a more official tone, while for general inquiries, it could be more conversational. This ensures that residents feel appropriately addressed based on their needs. 
+
+ 
+
+Example: A resident could interact with the enhanced bot to inquire about council services, report issues, or book appointments. If a resident asks a complex question like, "What's the process for reporting a pothole and how long does it usually take to get it fixed?", the bot, powered by OpenAI and Azure, can provide a comprehensive answer, guiding the resident through the reporting process and giving an estimated timeline for resolution. 
+
+  
+
+Azure Cognitive Search: 
+
+  
+
+Application: Enhance the ABC's website with advanced search capabilities, allowing residents to easily find relevant information or services. 
+
+Example: A resident searching for "school transport guidelines" would receive accurate and comprehensive results, including related documents, service timings, and locations. 
+
+ 
+
+ 
+
+2. Data-Driven Decision Making: 
+
+Use Case: Leveraging data analytics and AI to make informed decisions that benefit our staff and residents. 
+
+  
+
+Azure Machine Learning: 
+
+  
+
+Application: Analyse data from various services to predict service demands, optimize resource allocation, and identify areas for improvement. 
+
+ 
+
+Example: Predicting increased demand for home to school transport and/or traffic during certain events or times of the year and adjusting services accordingly. 
+
+ 
+
+Azure Databricks: 
+
+  
+
+Application: Process and analyse large datasets from different services to gain insights and trends. 
+
+Example: Analysing traffic data to identify congestion hotspots and planning infrastructure improvements for ETI. 
+
+ 
+
+3. Enhancing Existing RPA Automation with Azure: 
+
+Application: Integrate Azure's advanced automation capabilities with existing Robotic Process Automation (RPA) capability to elevate the efficiency, scalability, and intelligence of automated processes. Azure offers tools like Azure Logic Apps and Azure Machine Learning that can be combined with RPA to introduce more dynamic and adaptive automation workflows. 
+
+ 
+
+Dynamic Adaptation: With Azure Machine Learning, RPA processes can be made adaptive, allowing them to learn from historical data and adjust their actions accordingly. For instance, an RPA process handling service requests can prioritize them based on patterns learned from past data. 
+
+ 
+
+Integration with Other Services: Azure provides a plethora of services that can be integrated with RPA, such as data analytics, AI, and storage solutions. This means that the RPA processes can be enriched with additional functionalities, like real-time analytics or AI-driven decision-making. 
+
+ 
+
+Example: Consider an RPA process that handles supplier invoices processing in finance service. By integrating with Azure, this process can automatically categorize invoices based on their content, prioritize them based on due dates learned from historical data, and even trigger AI-driven anomaly detection to spot any inconsistencies. 
+
+ 
+
+  
+
+4. Enhanced Communication: 
+
+Use Case: Improving engagement channels within the council and with the residents. 
+
+  
+
+Azure Speech Service: 
+
+  
+
+Application: Offer voice-based services or convert spoken feedback from residents into actionable text. 
+
+Example: A resident could call our community helpline, describe their issue, and the system would transcribe and categorize the call for further action. This will help us to manage the demand efficiently.  
+
+ 
+
+Azure Translator: 
+
+  
+
+Application: Provide real-time translation services on the council's website or communication channels to cater to residents from diverse linguistic backgrounds. 
+
+Example: A resident whose primary language is Ukranian could access council information in Ukranian, ensuring inclusivity. 
+
+ 
+
+Additionally, how Azure services can be used for some of the use cases that were identified is explained further below  
+
+ 
+
+1. ABC Resources General: 
+
+ 
+
+Use Cases: 
+
+Data Collection: Like Knowledge Management project was delivered collectively with UoS, Azure AI can automate the process of data collection using Azure Form Recognizer. It can extract information from forms, invoices, and other documents, converting them into structured data.  
+
+Data Analysis: Azure Machine Learning can be employed to analyse the collected data, identify patterns, and make predictions. 
+
+Customer Interaction: Chatbot Services can be enhanced with OpenAI to create more intelligent context aware bots that interact with customers, answer queries, and provide more accurate information. 
+
+ 
+
+2. Social Care (ASC and CFLL): 
+
+Use Cases: 
+
+Predictive Analysis: Azure Machine Learning can be used to predict the needs of individuals based on historical data from LCS, helping in proactive care. 
+
+Virtual Assistance: Chatbots enhanced with OpenAI can provide virtual assistants to answer common queries, schedule appointments, and provide information. 
+
+Document Processing: Azure Cognitive Services can process and categorize documents, extract relevant information, and even translate content if needed. 
+
+ 
+
+3. Personalised Care Packages: 
+
+Use Cases: 
+
+Predictive Analysis for Personalized Care: Azure Machine Learning can analyse historical health data of individuals to predict future health needs, allowing for the creation of personalized care packages. 
+
+Virtual Health Assistants: chatbots can be used to create virtual assistants that provide personalized health advice, medication reminders, and schedule appointments. 
+
+Document Analysis for Health Records: Azure Cognitive Services can process some health records, extracting relevant information to provide insights into an individual's health history and needs. This use case will be handled very sensitively aligned with security and privacy guidelines as well as data ethics framework defined.  
+
+ 
+
+4. Road and Transport Maintenance: 
+
+Use Cases: 
+
+Predictive Maintenance: Azure Machine Learning can analyse data from road sensors and historical maintenance records to predict when a road or transport infrastructure might need maintenance. 
+
+Image Analysis for Potholes or damages to the road: Azure Computer Vision can be used to analyse images from road cameras to detect damages, potholes, and other issues. 
+
+Traffic Flow Analysis: Azure AI can analyse traffic data to optimize traffic flow, suggest alternative routes during maintenance, and predict traffic congestion. 
+
+ 
+
+5. Emergency Planning & Community Safety: 
+
+Use Cases: 
+
+Emergency Prediction: Azure Machine Learning can analyse weather data, historical emergency incidents, and other relevant data to predict potential emergencies. 
+
+Virtual Assistants for Emergency Information: Chatbots can provide real-time information during emergencies, guide individuals with safety procedures, and answer queries. 
+
+Image Analysis for Surveillance: Azure Computer Vision can analyse surveillance footage to detect suspicious activities, helping in proactive community safety. Again, image analysis will be handled very sensitively aligned with security and privacy guidelines as well as data ethics framework defined.  
+
+ 
+
+ 
+
+6. Health, Welfare & Wellbeing Support: 
+
+Use Cases: 
+
+Predictive Analysis for Welfare Needs: Azure Machine Learning can analyse data to predict individuals or communities that might need welfare support, ensuring timely assistance. 
+
+Virtual Assistants for Welfare Support: Chatbots can guide residents about welfare programs, eligibility criteria, and provide information. 
+
+Document Analysis for Welfare Applications: Azure Cognitive Services can process welfare applications, categorize them, and extract necessary information for faster processing. 
+
+ 
+
+ 
+
+Monitoring and Evaluation 
+
+ 
+
+Our AI Monitoring and Evaluation process is designed to ensure that our AI initiatives are delivering the expected benefits and aligning with our council's objectives and priorities. This process is aligned with the overall digital programme benefit management and involves tracking the progress of our AI initiatives, assessing their impact, and using this information to inform our future AI activities. 
+
+ 
+
+Our AI Monitoring and Evaluation process includes: 
+
+ 
+
+Performance Metrics: We will establish performance metrics for each of our AI initiatives. These metrics will be aligned with our council's objectives and priorities, and they will provide a clear measure of the success of our AI initiatives. 
+
+ 
+
+Regular Reviews: We will conduct regular reviews of our AI initiatives. These reviews will assess the progress of our initiatives against their performance metrics, identify any issues or challenges, and recommend any necessary adjustments. 
+
+ 
+
+Impact Assessments: We will conduct impact assessments to evaluate the broader impact of our AI initiatives. These assessments will consider the impact of our initiatives on our services, our operations, and our outcomes, and they will help us to understand the value and benefits of our AI activities. 
+
+ 
+
+Feedback Mechanisms: We will establish feedback mechanisms to gather input from our staff, our residents, and our partners. This feedback will provide us with valuable insights into the effectiveness of our AI initiatives, and it will help us to continually improve our AI activities. 
+
+ 
+
+Continuous Learning: We will foster a culture of continuous learning within our council. We will use the insights and lessons learned from our AI Monitoring and Evaluation process to inform our future AI activities, and to continually improve our AI capabilities. 
+
+ 
+
+Our AI Monitoring and Evaluation process is a key component of our AI Governance Framework, ensuring that our AI activities are accountable, transparent, and focused on delivering value and benefits for our council and our residents. 
+
+ 
+
+ 
+
+Using our Resources and Aligning with Existing Strategies 
+
+ 
+
+Our AI initiatives are not standalone efforts; they are integrated with our existing resources and strategies to ensure a cohesive and effective approach to achieving our council's objectives and priorities. 
+
+ 
+
+Our Resources 
+
+ 
+
+We have a number of resources that are crucial to our AI initiatives: 
+
+ 
+ 
+
+Automation Team: Our automation team develops chatbots and RPA automations. These capabilities are key components of our AI infrastructure, enabling us to automate routine tasks and deliver AI-powered services to our residents. 
+
+Data Analytics Team: Our data analytics team delivers data and analytics reports. They have data modelling and analysis capabilities, as well as experience in creating machine learning models. This team plays an important role in developing and implementing our AI initiatives. 
+
+Digital Design Teams (DDT: Using information earned from previous project to help design AI services, DDT will commission to undertake specific discovery to establish use cases and help in the design prototyping testing (with users) and iteration of AI services.  
+
+ 
+
+AI strategy proposes a model for the effective development of AI models and the use of existing resources in these teams, leveraging our data analytics capabilities to develop and implement effective AI solutions. 
+
+ 
+
+Alignment with Existing Strategies 
+
+ 
+
+Our AI initiatives align with several existing strategies: 
+
+ 
+
+Corporate Strategy: This strategy defines the overall objectives and priorities of the council. Our AI initiatives align with this strategy, supporting our objectives and priorities through the use of AI. 
+
+ 
+
+Digital Strategy: This strategy defines our overall digital approach. Our AI initiatives are a key component of this strategy, helping us to leverage digital technologies to improve our services and operations. 
+
+ 
+
+Data Strategy: This strategy defines the effective use of data. Our AI initiatives align with this strategy, using data to train our AI models and to deliver data-driven services to our residents. 
+
+ 
+
+Birmingham Way: Birmingham Way defines the key areas that we should be working towards. The AI strategy aligns with the priorities and objectives of the organisation as explained in introduction section in detail  
+
+ 
+
+Workforce Strategy: This strategy defines how our workforce will be shaped and organised. Our AI initiatives align with this strategy, helping to shape our workforce for the future and to develop the skills and capabilities our staff need to effectively use AI. 
+
+ 
+
+Corporate Infrastructure Strategy : This strategy defines our tech infrastructure selection and security aspects. Our AI initiatives align with this strategy, leveraging our existing tech infrastructure and adhering to our security protocols. 
+
+ 
+
+MS365 Strategy: This strategy defines our use of the Microsoft stack and how to use it effectively. Our AI initiatives align with this strategy, leveraging Microsoft technologies for AI development and implementation. 
+
+ 
+
+Customer Engagement Strategy and RM&I: This strategy defines how our council will engage with residents. Our AI initiatives align with this strategy, using AI to enhance our engagement with residents and improve their experience with our services. 
+
+ 
+
+Chatbot Strategy: This strategy outlines our approach to using chatbots to automate routine tasks and improve service delivery. Our AI initiatives align with this strategy, leveraging chatbots as a key component of our AI infrastructure. 
+
+ 
+
+RPA Automation Strategy: This strategy outlines our approach to using Robotic Process Automation to automate routine tasks and improve operational efficiency. Our AI initiatives align with this strategy, leveraging RPA as a key component of our AI infrastructure. 
+
+ 
+
+By using our resources effectively and aligning our AI initiatives with our existing strategies, we can ensure that our AI initiatives are integrated, effective, and focused on achieving our council's objectives and priorities. 
+
+ 
+ 
+
+ 
+
+Conclusion 
+
+ 
+
+ 
+
+We believe that AI has the potential to transform our services and operations, and to deliver significant improvements in service delivery, cost savings, and innovation aligned with our digital strategy 2025. 
+
+ 
+
+As outlined in our AI strategy, we believe that AI can play a significant role in achieving the council’s key priorities of growing a sustainable economy, tackling health inequality, enabling a greener future, and empowering communities aligned with our organisational strategy and Birmingham Way initiative. It is also designed to use the potential of AI to improve services and outcomes for our residents, and to address workforce challenges while also addressing the challenges and risks associated with AI, referring to Jo Killian’s comments.  
+
+ 
+
+It is guided by our vision for AI, which is to use AI to drive innovation, improve service delivery, reduce costs, and promote a culture of continuous learning and improvement. It also addresses using AI in a way that is ethical, inclusive, transparent, and accountable with data ethics framework that we are developing. 
+
+ 
+
+The strategy is underpinned by a robust stage gate maturity roadmap, which provides a structured process for managing the development and risks associated with AI initiatives. This roadmap, with its clear success metrics and gate decisions, ensures that our AI initiatives are effectively managed and aligned with our objectives and priorities, and that risks are identified and addressed at each stage of development. 
+
+ 
+
+The roadmap demonstrates our commitment to a responsible and phased approach to AI adoption, starting with building trust and planning with internal use, moving to experimenting with external use cases, then scaling up to more services, and finally reaching an advanced phase where AI is fully integrated into our operations and decision-making processes. 
+
+ 
+
+We are fostering a pro-innovation approach, encouraging our staff to innovate and experiment with AI by establishing a Community of innovation and a safe platform for prototyping use cases. We believe that this will drive creativity and efficiency within the council, leading to improved services for our residents. At the same time, we will be addressing risks and concerns through a robust governance framework that is emerging alongside our AI initiatives.  
+
+ 
+
+We look forward to working with our staff, our residents, our partners, and other stakeholders to implement this strategy and to use the power of AI for the benefit of our council and our community. We are excited about the opportunities that AI presents, and we are committed to exploring these opportunities in a way that is ethical, responsible, and focused on delivering value and benefits for our residents. 
+
+ 
+ 
+
+ 
+
+Appendices: 
+
+ 
+
+Glossary of AI Terms 
+
+ 
+
+Artificial Intelligence (AI): The simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, problem-solving, perception, and language understanding. 
+
+ 
+
+Machine Learning (ML): A type of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
+
+ 
+
+Data Analytics: The process of examining, cleaning, transforming, and modeling data to discover useful information, inform conclusions, and support decision-making. 
+
+ 
+
+Robotic Process Automation (RPA): The use of software with AI and machine learning capabilities to handle high-volume, repeatable tasks that previously required humans to perform. 
+
+ 
+
+Chatbot: A software application used to conduct an online chat conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent. 
+
+ 
+
+Data Ethics: The branch of ethics that focuses on how data (data collection, data sharing, data use) can be handled in a way that respects the rights and values of people. 
+
+ 
+
+Data Integration: The process of combining data from different sources and providing users with a unified view of the data. 
+
+ 
+
+Data Quality: The condition of a set of values of qualitative or quantitative variables. There are many definitions of data quality, but data is generally considered high quality if it is "fit for purpose, intended uses in operations, decision making and planning". 
+
+ 
+
+Data Warehouses and Data Lakes: A data warehouse is a large store of data collected from a wide range of sources within a company and used to guide management decisions. A data lake is a system or repository of data stored in its natural/raw format, usually object blobs or files. 
+
+ 
+
+Off-The-Shelf (OTS) Products: Ready-made products that are available for purchase. In the context of AI, these can be software or hardware products that have built-in AI capabilities. 
+
+ 
+
+Python: A high-level, interpreted programming language for general-purpose programming. It is widely used in AI and machine learning development due to its simplicity and large community. 
+
+ 
+
+Azure: A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centres. 
+
+ 
+
+Microsoft Stack: A set of Microsoft technologies that work together to build, deploy, and run applications.  
+
+ 
+
+MS CoIilot: is a recent AI-based product by Microsoft to help people with creating documents, reading and summarising emails, crafting presentations and more besides.  
+
+ 
+
+Large Language Model (LLM): LLM is a type of AI model designed to understand and generate human-like text. It is trained on huge amounts of data enabling it to predict next word in a sequence, answering questions, writing essays and generating creative content.  
+
+ 
+
+ChatGPT: A LLM model developed by OpenAI. It is designed to generate human-like text based on the input it receives.  
+
+ 
+
+OpenAI: An organisation focused on developing and promoting ChatGPT. It has also products like Dall-E, Whisper AI alongside ChatGPT  
+
+ 
+
+Generative AI: It refers to a type of AI that can create content. It can generate text as in ChatGPT, images like in Dall-E, music , and other forms of content that weren’t previously in its training data.  
+
+ 
+
+ 
+
+Key Performance Indicators (KPIs): A set of quantifiable measures that a company or industry uses to gauge or compare performance in terms of meeting their strategic and operational goals. 
+
+ 
+
+Community of innovation (CoI): A group of people who share a craft or a profession. The group can evolve naturally because of the members' common interest or it can be created specifically with the goal of gaining knowledge related to their field. 
+
+ 
+
+Governance Framework: A framework that outlines the decision rights and accountabilities to encourage desirable behavior in the use of IT (in this case, AI). It includes the processes, structures, and relational mechanisms that enable both business and IT people to execute their responsibilities in support of their business/IT strategies. 
