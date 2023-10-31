@@ -1,0 +1,13 @@
+For info the agreement was to run a time bound trail. 6/8 weeks in duration of the BEC (Bing Enterprise Chat) with diverse group of staff members representing different directorates, technical expertise, and hierarchical roles  to get a comprehensive perspective. Suggested to be around 50/60 staff.
+ 
+The aim is to understand usage and use cases, evaluate user experience and identify value and benefits of BEC, whilst leveraging the more secure and safe environment that BEC sits within.  Once the trial period has ended (as part of the early access to BEC) the participants will be required to fill in a comprehensive evaluation survey to gather data to provide evidence on the aims.  A short training course for precipitants is also an idea we have, allowing the basics to be explained including a prompt engineering overview. Finally we (IT&D) want to evidence to the organisation that we are embracing new technology in a safe and controlled way over just turning off the new capabilities. More on this in a moment.
+ 
+The initial phase of the trial discussed with Mehmet, Morgan and I, was to provide access to a small number of internal IT&D staff, ahead of trial. The reason being  to allow these people to see what BEC looks and acts like  and an opportunity to see the “back end” how to manage access, features etc before rolling out to the wider trail group.
+ 
+We also discussed a comms element to the trial, potentially part of Ddat comms? with as positive message but also a word of warning.  Positive; the fact that we are running this trial as it's a new exciting capability that most people have seen or heard about in their personal lives and we want to see what it means for SCC in a safe, controlled environment. However we also want to raise awareness of  the risks of utilising ChatGpt, Ai Meeting bots etc that  we know are being used with sensitive SSC data.
+ 
+Next Steps
+Short internal trial – suggested that the recipients of this mail along with a handful of others are provided with access to BEC.  We can agree who these people should be ( Morag, Tech advocates, Matts Leadership team as a starter for 10)
+DO WE WANT A MEETING with everyone to see how it's going or a mini evaluation  
+Run the internal trail for 2/3 weeks and then get together with key staff (TBD) to agree a go/no go on the decision to start the wider trial.
+In parallel define the wider cohort, create the training and plan the evaluation survey.   
