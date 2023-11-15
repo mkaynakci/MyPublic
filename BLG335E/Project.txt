@@ -1,0 +1,62 @@
+Your efficient C++ Implementation of the assignment requirements. 
+– Correctness
+– Clarity
+– Good Coding Practice
+Report detailing your implementation. [
+– Content
+– Organization
+– Relevance
+– Quality
+For this project you are given a simplified version of the DataSet given in these links below.
+The original DataSet contains 11 columns, however, the simplified DataSet contains the
+following columns:
+• City [String]
+• Population [Integer]
+Be informed that multiple permutations of the same simplified DataSet titled
+“population1.csv”, “population2.csv”, “population3.csv”, and “population4.csv”
+are provided to test your code and report your results.
+The report template provided has some guidelines for you to test your code out.
+However, you are highly encouraged to test your code on smaller portions of these
+DataSets and incrementally increase the size of your data and discuss your results.
+1- Deliverables
+Submit a code file titled “QuickSort.cpp”. This file should run on DataSets in the format
+of the DataSet files provided in the assignment description. You are free to delegate the
+tasks of the assignment into functions as you choose, however, bear in mind that you
+will be graded for both efficiency and readability. Your code should accept the following
+command line arguments:
+1. The name of the DataSet file.
+2. The pivoting strategy implemented
+• ’l’: Last Element
+• ’r’: Random Element
+• ’m’: Median of Three
+3. The value of the threshold “k”. If the value of “k” is 1, naive QuickSort should
+run. Otherwise, the hybrid approach with InsertionSort should run. Assume that
+“k” will always take value greater than or equal to 1.
+4. The name of the output file. The sorted output should be written to a csv file with the
+same format as the input. Please refer to the example output for “population1.csv”
+given in “out.csv”.
+5. Whether or not a verbose output is provided. The last command line argument
+can be “v” for verbose. It may or may not be provided by the user. In the case
+which it isn’t provided, do not print verbose output. In the case that this argument
+is provided, a “log.txt” file should be generated printing out either the partition
+details for each call to partition in QuickSort. You do not need to print anything for
+InsertionSort.
+The shell command to compile this file is:
+g++ QuickSort . cpp −o QuickSort
+An example shell command to run the compiled executable is:
+. / QuickSort [ DataSetFileName ] . csv r 5 out . csv v
+This particular command line prompt should run QuickSort using a random pivoting
+strategy. When the sizes of the subarrays are equal to 5, it should run to termination
+with insertion sort. The output should be written to a file titled “out.csv”. For example,
+given dummy data [2 1 6 9 7 4 3 8 5], verbose output should be written to the “log.txt”
+file in the following format:
+Pi vot : 5 Array : [2 , 1 , 6 , 4 , 5 , 9 , 3 , 7 , 8]
+. . .
+Your code should print to the command line the amount of time it took to sort the
+input array in the following format:
+Time taken by QuickSort wi th p i v o t s t rategy ’ r ’
+and threshold 5: [ I n s e r t Elapsed Time ] ns .
+If you are not sure how to measure time elapsed, please refer to this link.
+2- Report
+Upload the provided report template to Overleaf. Fill in your report and submit only the
+pdf file.
