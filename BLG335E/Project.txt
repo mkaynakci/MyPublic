@@ -66,4 +66,8 @@ and threshold 5: [ I n s e r t Elapsed Time ] ns .
 If you are not sure how to measure time elapsed, please refer to this link.
 2- Report
 Upload the provided report template to Overleaf. Fill in your report and submit only the
-pdf file.
+pdf file. 
+the report should be written aligned with these template files LateX files that can be found on this link https://raw.githubusercontent.com/mkaynakci/MyPublic/main/BLG335E/Main.tex
+and report body template
+https://raw.githubusercontent.com/mkaynakci/MyPublic/main/BLG335E/ReportBody.tex
+provide the files accordingly.  
