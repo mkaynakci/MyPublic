@@ -13,7 +13,10 @@ following columns:
 • City [String]
 • Population [Integer]
 Be informed that multiple permutations of the same simplified DataSet titled
-“population1.csv”, “population2.csv”, “population3.csv”, and “population4.csv”
+“population1.csv” can be found on https://raw.githubusercontent.com/mkaynakci/MyPublic/main/BLG335E/population1.csv , 
+“population2.csv” can be found on https://raw.githubusercontent.com/mkaynakci/MyPublic/main/BLG335E/population2.csv, 
+“population3.csv” can be found on https://raw.githubusercontent.com/mkaynakci/MyPublic/main/BLG335E/population3.csv, 
+and “population4.csv” can be found on https://raw.githubusercontent.com/mkaynakci/MyPublic/main/BLG335E/population4.csv
 are provided to test your code and report your results.
 The report template provided has some guidelines for you to test your code out.
 However, you are highly encouraged to test your code on smaller portions of these
