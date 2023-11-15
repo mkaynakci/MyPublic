@@ -1,16 +1,3 @@
-Your efficient C++ Implementation of the assignment requirements. 
-– Correctness
-– Clarity
-– Good Coding Practice
-Report detailing your implementation. 
-– Content
-– Organization
-– Relevance
-– Quality
-
-You are free to use STL for data structures ONLY (i.e. you can use vector, but not
-built-in sorting algorithms).
-
 For this project you are given a simplified version of the DataSet given in these links below.
 The original DataSet contains 11 columns, however, the simplified DataSet contains the
 following columns:
@@ -57,13 +44,14 @@ strategy. When the sizes of the subarrays are equal to 5, it should run to termi
 with insertion sort. The output should be written to a file titled “out.csv”. For example,
 given dummy data [2 1 6 9 7 4 3 8 5], verbose output should be written to the “log.txt”
 file in the following format:
-Pi vot : 5 Array : [2 , 1 , 6 , 4 , 5 , 9 , 3 , 7 , 8]
+Pivot : 5 Array : [2 , 1 , 6 , 4 , 5 , 9 , 3 , 7 , 8]
 . . .
 Your code should print to the command line the amount of time it took to sort the
 input array in the following format:
-Time taken by QuickSort wi th p i v o t s t rategy ’ r ’
+Time taken by QuickSort with p i v o t s t rategy ’ r ’
 and threshold 5: [ I n s e r t Elapsed Time ] ns .
 If you are not sure how to measure time elapsed, please refer to this link.
+https://en.cppreference.com/w/cpp/chrono
 2- Report
 Upload the provided report template to Overleaf. Fill in your report and submit only the
 pdf file. 
