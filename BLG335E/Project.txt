@@ -2,11 +2,15 @@ Your efficient C++ Implementation of the assignment requirements.
 – Correctness
 – Clarity
 – Good Coding Practice
-Report detailing your implementation. [
+Report detailing your implementation. 
 – Content
 – Organization
 – Relevance
 – Quality
+
+You are free to use STL for data structures ONLY (i.e. you can use vector, but not
+built-in sorting algorithms).
+
 For this project you are given a simplified version of the DataSet given in these links below.
 The original DataSet contains 11 columns, however, the simplified DataSet contains the
 following columns:
