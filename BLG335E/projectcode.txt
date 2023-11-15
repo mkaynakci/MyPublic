@@ -1,0 +1,143 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <fstream>
+#include <sstream>
+#include <chrono>
+#include <cstdlib>
+#include <ctime>
+
+
+// Structure to hold city data
+struct City {
+    std::string name;
+    int population;
+
+    City(const std::string& name, int population) : name(name), population(population) {}
+};
+
+// Function to read the dataset from a CSV file
+std::vector<City> readDataSet(const std::string& filename) {
+    std::vector<City> cities;
+    std::ifstream file(filename);
+    std::string line, name;
+    int population;
+
+    while (std::getline(file, line)) {
+        std::stringstream ss(line);
+        std::getline(ss, name, ',');
+        ss >> population;
+        cities.push_back(City(name, population));
+    }
+
+    return cities;
+}
+
+// Function to write the dataset to a CSV file
+void writeDataSet(const std::vector<City>& cities, const std::string& filename) {
+    std::ofstream file(filename);
+    for (const auto& city : cities) {
+        file << city.name << "," << city.population << "\n";
+    }
+}
+
+// Utility function to get the median of three elements
+int medianOfThree(const std::vector<City>& arr, int a, int b, int c) {
+    int x = arr[a] - arr[b];
+    int y = arr[b] - arr[c];
+    int z = arr[a] - arr[c];
+
+    if (x * y > 0) return b;
+    if (x * z > 0) return c;
+    return a;
+}
+
+// Function to partition the array (Last Element pivot)
+int partitionLast(std::vector<City>& arr, int low, int high) {
+    int pivot = arr[high];
+    int i = (low - 1);
+
+    for (int j = low; j <= high - 1; j++) {
+        if (arr[j] < pivot) {
+            i++;
+            std::swap(arr[i], arr[j]);
+        }
+    }
+    std::swap(arr[i + 1], arr[high]);
+    return (i + 1);
+}
+
+// Function to partition the array (Random Element pivot)
+int partitionRandom(std::vector<City>& arr, int low, int high) {
+    srand(time(NULL));
+    int random = low + rand() % (high - low);
+    std::swap(arr[random], arr[high]);
+    return partitionLast(arr, low, high);
+}
+
+// Function to partition the array (Median of Three pivot)
+int partitionMedianOfThree(std::vector<City>& arr, int low, int high) {
+    srand(time(NULL));
+    int a = low + rand() % (high - low);
+    int b = low + rand() % (high - low);
+    int c = low + rand() % (high - low);
+    int medianIndex = medianOfThree(arr, a, b, c);
+    std::swap(arr[medianIndex], arr[high]);
+    return partitionLast(arr, low, high);
+}
+
+
+// InsertionSort implementation
+void insertionSort(std::vector<City>& arr, int low, int high) {
+    for (int i = low + 1; i <= high; i++) {
+        City key = arr[i];
+        int j = i - 1;
+
+        while (j >= low && arr[j].population > key.population) {
+            arr[j + 1] = arr[j];
+            j--;
+        }
+        arr[j + 1] = key;
+    }
+}
+
+// Hybrid QuickSort with InsertionSort for small arrays
+void hybridQuickSort(std::vector<City>& arr, int low, int high, char pivotStrategy, int k) {
+    if (high - low + 1 <= k) {
+        insertionSort(arr, low, high);
+    } else {
+        // Standard QuickSort logic with modified partition
+        int pi = partition(arr, low, high, pivotStrategy);
+        hybridQuickSort(arr, low, pi - 1, pivotStrategy, k);
+        hybridQuickSort(arr, pi + 1, high, pivotStrategy, k);
+    }
+}
+
+
+int main(int argc, char* argv[]) {
+    if (argc < 4 || argc > 5) {
+        std::cerr << "Usage: ./QuickSort [DataSetFileName].csv [pivotStrategy] [k] [outputFileName].csv [v]\n";
+        return 1;
+    }
+
+    std::string inputFileName = argv[1];
+    char pivotStrategy = argv[2][0];
+    int k = std::stoi(argv[3]);
+    std::string outputFileName = argv[4];
+    bool verbose = (argc == 6 && std::string(argv[5]) == "v");
+
+    auto cities = readDataSet(inputFileName);
+
+    auto start = std::chrono::high_resolution_clock::now();
+    hybridQuickSort(cities, 0, cities.size() - 1, pivotStrategy, k);
+    auto end = std::chrono::high_resolution_clock::now();
+    std::chrono::duration<double, std::nano> elapsed = end - start;
+
+    writeDataSet(cities, outputFileName);
+
+    std::cout << "Time taken by QuickSort with pivot strategy '" << pivotStrategy 
+              << "' and threshold " << k << ": " 
+              << elapsed.count() << " ns." << std::endl;
+
+    return 0;
+}
